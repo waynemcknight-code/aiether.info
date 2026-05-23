@@ -18,10 +18,10 @@ categories: ["Colorado County", "TPIA Records"]
 
 **Files uploaded:**
 
-- `Colorado County 10 day letter.pdf`
-- `Original request by requestor.pdf`
+- [`20260323_JEM_VideoAudio_10Day.pdf`](/docs/20260323_JEM_VideoAudio_10Day.pdf)
+- [`TPIA_Request_Jail_Video.pdf`](/docs/TPIA_Request_Jail_Video.pdf)
 - [`HIPAA_Release_Redacted.pdf`](/docs/HIPAA_Release_Redacted.pdf)
-- `Colorado County 15 day letter.pdf`
+- [`20260330_Packet_VideoAudio_15Day.pdf`](/docs/20260330_Packet_VideoAudio_15Day.pdf)
 - [`AG_Rebuttal_Brief_v2.docx.pdf`](/docs/AG_Rebuttal_Brief_v2.docx.pdf)
 
 **Payment:** $7.50 — Trace Number 302OR70387490 — Transaction Date April 2, 2026, 8:27:29 PM CST
@@ -37,9 +37,9 @@ categories: ["Colorado County", "TPIA Records"]
 
 **Files uploaded:**
 
-- `Exhibit A.pdf`
-- `Exhibit B.pdf`
-- `Exhibit C.pdf`
+- [`TPIA_Request_Official_Communications.pdf`](/docs/TPIA_Request_Official_Communications.pdf)
+- [`20260324_JEM_Communications_10Day.pdf`](/docs/20260324_JEM_Communications_10Day.pdf)
+- [`20260331_Packet_Communications_15Day.pdf`](/docs/20260331_Packet_Communications_15Day.pdf)
 - [`AG_Rebuttal_Communications.pdf`](/docs/AG_Rebuttal_Communications.pdf)
 
 **Payment:** $7.50 — Trace Number 302OR70387496 — Transaction Date April 2, 2026, 8:32:32 PM CST

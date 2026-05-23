@@ -21,8 +21,12 @@ The complaint documented that TCOLE records confirm both individuals were employ
 
 **Supporting documents uploaded:**
 
-- `CCSO Complaint and supporting docs.pdf`
-- `Gmail - TPIA Request - Personnel Reccords.pdf`
+- `CCSO Complaint and supporting docs.pdf` *(attachment — not available for separate download)*
+- `Gmail - TPIA Request - Personnel Reccords.pdf` *(attachment — not available for separate download)*
+
+**Related document — CCSO No-Responsive-Records response being contested:**
+
+- [`04_23_2026_Response_SmithFlores.pdf`](/docs/04_23_2026_Response_SmithFlores.pdf)
 
 ---
 

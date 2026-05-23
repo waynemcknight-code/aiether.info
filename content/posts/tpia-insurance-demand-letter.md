@@ -21,9 +21,9 @@ A formal demand letter was transmitted to Colorado County Judge Ty Prause and ou
 
 **Attachments:**
 
-- `DEMAND_Insurance_552.302_April2.docx.pdf`
-- `Exhibit A.pdf`
-- `Exhibit A(1).pdf`
+- `DEMAND_Insurance_552.302_April2.docx.pdf` *(pending upload)*
+- `Exhibit A.pdf` *(pending upload)*
+- `Exhibit A(1).pdf` *(pending upload)*
 
 ---
 

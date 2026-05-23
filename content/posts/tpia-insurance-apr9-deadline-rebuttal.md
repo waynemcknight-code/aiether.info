@@ -20,7 +20,7 @@ A written notice was transmitted to Colorado County Judge Ty Prause documenting 
 
 **Attachment submitted:**
 
-- `Prause_Deadline_Expired_April9.pdf`
+- `Prause_Deadline_Expired_April9.pdf` *(pending upload)*
 
 ---
 
@@ -35,7 +35,7 @@ A direct letter was transmitted to Colorado County Auditor Michelle Lowrance reg
 
 **Attachment submitted:**
 
-- `Letter_to_Lowrance_Direct_April9.pdf`
+- `Letter_to_Lowrance_Direct_April9.pdf` *(pending upload)*
 
 ---
 
@@ -50,4 +50,4 @@ A rebuttal brief was transmitted to Allison, Bass & Magee LLP regarding the Audi
 
 **Attachment submitted:**
 
-- `Rebuttal_Brief_Auditor_Insurance_AG.pdf`
+- `Rebuttal_Brief_Auditor_Insurance_AG.pdf` *(pending upload)*

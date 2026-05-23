@@ -23,4 +23,4 @@ The Texas Association of Counties (TAC) transmitted correspondence to the reques
 
 **Attachment received:**
 
-- `Letter to Requestor - Colorado County Request.pdf`
+- [`Letter to Requestor - Colorado County Request.pdf`](/docs/Letter%20to%20Requestor%20-%20Colorado%20County%20Request.pdf)
