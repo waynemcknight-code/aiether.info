@@ -1,0 +1,36 @@
+---
+title: "Allison Bass 15-Day Letter: Jail Video and Audio TPIA — March 30, 2026"
+date: 2026-03-30
+draft: false
+categories: ["Colorado County", "TPIA Records"]
+---
+
+*Received via email from Julia McVey, Paralegal, Allison, Bass & Magee LLP, March 30, 2026, CC: J. Eric Magee. Responded April 2, 2026 with AG rebuttal brief.*
+
+---
+
+**FROM:** Julia McVey, Paralegal — Allison, Bass & Magee LLP
+**TO:** ████████████████████████████
+**CC:** J. Eric Magee (e.magee@allison-bass.com)
+**DATE:** March 30, 2026
+
+**SUBJECT:** Wayne McKnight' Public Information Act request to the Colorado County Sheriff's Office dated March 9, 2026 regarding video and audio recordings of the incident involving inmate ████████████████ on the evening of January 19, 2026
+
+---
+
+Outside counsel for the Colorado County Sheriff's Office transmitted a 15-day letter to the Texas Attorney General regarding this request, with a copy sent to the requestor. Attachments included the packet letter to the requestor and a separate letter from J. Eric Magee to the AG.
+
+**Attachments received:**
+
+- `20260330 - PACKET - JEM to H. McKnight re Video and Audio PIA 15 Day Letter.pdf`
+- `20260330 - JEM to AG re H. McKnight Video and Audio PIA 15 Day Letter.pdf`
+
+---
+
+**RESPONSE — April 2, 2026**
+
+██████████████████ replied to Julia McVey (CC: J. Eric Magee) with a rebuttal brief filed with the Texas Attorney General.
+
+**Attachment submitted:**
+
+- `AG_Rebuttal_Brief_v2.docx.pdf`
