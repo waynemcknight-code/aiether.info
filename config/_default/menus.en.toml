@@ -7,3 +7,8 @@
   name = "Colorado County"
   url = "/categories/colorado-county/"
   weight = 20
+
+[[main]]
+  name = "TPIA Records"
+  url = "/categories/tpia-records/"
+  weight = 30
