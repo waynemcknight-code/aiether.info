@@ -1,0 +1,235 @@
+{{ define "main" }}
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=JetBrains+Mono:wght@400;500&family=Barlow+Condensed:wght@300;400;600&display=swap');
+
+#ai-hero {
+  min-height: 100vh;
+  background: linear-gradient(160deg, #020204 0%, #080008 50%, #0f0005 100%);
+  display: flex;
+  align-items: center;
+  padding: 80px 10vw 60px;
+  position: relative;
+  overflow: hidden;
+  margin-top: -1px;
+}
+
+.ai-grid {
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(180,0,0,0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(180,0,0,0.06) 1px, transparent 1px);
+  background-size: 72px 72px;
+  animation: ai-grid-drift 30s linear infinite;
+  pointer-events: none;
+}
+@keyframes ai-grid-drift {
+  0%   { transform: translate(0,0); }
+  100% { transform: translate(72px,72px); }
+}
+
+.ai-glow {
+  position: absolute;
+  top: 20%;
+  left: -10%;
+  width: 50vw;
+  height: 50vw;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(160,0,0,0.08) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.ai-ring {
+  position: absolute;
+  right: -4vw;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 52vmin;
+  height: 52vmin;
+  border-radius: 50%;
+  border: 1px solid rgba(180,0,0,0.15);
+  pointer-events: none;
+}
+.ai-ring::before {
+  content: '';
+  position: absolute;
+  inset: 40px;
+  border-radius: 50%;
+  border: 1px solid rgba(180,0,0,0.08);
+}
+.ai-ring::after {
+  content: '';
+  position: absolute;
+  inset: 100px;
+  border-radius: 50%;
+  border: 1px solid rgba(180,0,0,0.05);
+}
+
+.ai-content {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+}
+
+.ai-eyebrow {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.68rem;
+  color: #cc2200;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  margin: 0 0 20px;
+  opacity: 0;
+  animation: ai-fade-up 0.5s ease forwards 0.1s;
+}
+.ai-eyebrow::before { content: '// '; opacity: 0.5; }
+
+.ai-name {
+  font-family: 'Bebas Neue', Impact, sans-serif;
+  font-size: clamp(5.5rem, 14vw, 12rem);
+  line-height: 0.85;
+  color: #ffffff;
+  letter-spacing: 0.04em;
+  margin: 0 0 12px;
+  opacity: 0;
+  animation: ai-fade-up 0.6s ease forwards 0.2s;
+}
+.ai-name em {
+  font-style: normal;
+  color: #cc2200;
+  display: block;
+}
+
+.ai-bar {
+  width: 56px;
+  height: 3px;
+  background: linear-gradient(90deg, #cc2200, transparent);
+  margin: 22px 0;
+  opacity: 0;
+  animation: ai-fade-up 0.5s ease forwards 0.35s;
+}
+
+.ai-tagline {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  font-weight: 600;
+  color: #888;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin: 0 0 10px;
+  opacity: 0;
+  animation: ai-fade-up 0.5s ease forwards 0.42s;
+}
+
+.ai-bio {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1.05rem;
+  font-weight: 300;
+  color: #444;
+  margin: 0 0 44px;
+  max-width: 500px;
+  line-height: 1.6;
+  opacity: 0;
+  animation: ai-fade-up 0.5s ease forwards 0.52s;
+}
+
+.ai-buttons {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-bottom: 42px;
+  opacity: 0;
+  animation: ai-fade-up 0.5s ease forwards 0.62s;
+}
+
+.ai-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 11px 26px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 2px;
+  transition: all 0.18s ease;
+}
+.ai-btn-primary {
+  background: #cc2200;
+  color: #ffffff;
+  font-weight: 500;
+}
+.ai-btn-primary:hover {
+  background: #ff2a00;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 28px rgba(200,30,0,0.35);
+}
+.ai-btn-secondary {
+  border: 1px solid rgba(255,255,255,0.1);
+  color: #666;
+}
+.ai-btn-secondary:hover {
+  border-color: #cc2200;
+  color: #cc2200;
+  transform: translateY(-2px);
+}
+
+.ai-status {
+  position: absolute;
+  bottom: 32px;
+  right: 10vw;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.62rem;
+  color: #2a2a2a;
+  letter-spacing: 0.14em;
+  opacity: 0;
+  animation: ai-fade-up 0.5s ease forwards 0.9s;
+}
+.ai-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #cc2200;
+  box-shadow: 0 0 8px #cc2200;
+  animation: ai-pulse 2.2s ease infinite;
+}
+
+@keyframes ai-pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.2; }
+}
+@keyframes ai-fade-up {
+  from { opacity: 0; transform: translateY(18px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+</style>
+
+<section id="ai-hero">
+  <div class="ai-grid"></div>
+  <div class="ai-glow"></div>
+  <div class="ai-ring"></div>
+
+  <div class="ai-content">
+    <p class="ai-eyebrow">Colorado County, Texas &nbsp;·&nbsp; Public Record</p>
+
+    <h1 class="ai-name">Ai<em>ether</em></h1>
+
+    <div class="ai-bar"></div>
+
+    <p class="ai-tagline">Accountability &nbsp;·&nbsp; Public Record &nbsp;·&nbsp; No Filter</p>
+    <p class="ai-bio">Documenting failures in Colorado County governance — federal grant misuse, PREA non-compliance, and the officials responsible.</p>
+
+    <div class="ai-buttons">
+      <a href="/posts/" class="ai-btn ai-btn-primary">Read the Record</a>
+      <a href="/categories/colorado-county/" class="ai-btn ai-btn-secondary">Colorado County</a>
+    </div>
+  </div>
+
+  <div class="ai-status">
+    <span class="ai-dot"></span>
+    WATCHING
+  </div>
+</section>
+{{ end }}
