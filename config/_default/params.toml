@@ -5,7 +5,7 @@ colorScheme = "fire"
   headline = "Colorado County Accountability"
   bio = "Documenting failures in Colorado County governance — PREA non-compliance, federal grant misuse, and public accountability."
 
-defaultAppearance = "dark"
+defaultAppearance = "light"
 autoSwitchAppearance = false
 
 article.showDate = true
