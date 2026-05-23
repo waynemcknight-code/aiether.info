@@ -1,0 +1,208 @@
+{{ define "main" }}
+<style>
+.ae-cat {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 60px 5vw 80px;
+}
+
+/* ── Dossier header ── */
+.ae-cat-header {
+  position: relative;
+  padding-bottom: 40px;
+  margin-bottom: 52px;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+.ae-cat-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.6rem;
+  color: #cc2200;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  margin: 0 0 10px;
+}
+.ae-cat-label::before { content: '// '; opacity: 0.5; }
+
+.ae-cat-name {
+  font-family: 'Bebas Neue', Impact, sans-serif;
+  font-size: clamp(3rem, 9vw, 7rem);
+  line-height: 0.88;
+  letter-spacing: 0.03em;
+  color: #111118;
+  margin: 0 0 20px;
+}
+
+.ae-cat-meta {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.ae-cat-count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.62rem;
+  color: #999;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.ae-cat-status {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.62rem;
+  color: #cc2200;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.ae-cat-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: #cc2200;
+  box-shadow: 0 0 6px #cc2200;
+  animation: ae-pulse 2.2s ease infinite;
+}
+@keyframes ae-pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.2; }
+}
+
+/* ── Entries ── */
+.ae-cat-entries {
+  display: flex;
+  flex-direction: column;
+}
+
+.ae-cat-entry {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  gap: 0 32px;
+  padding: 36px 0;
+  border-bottom: 1px solid rgba(0,0,0,0.07);
+  text-decoration: none;
+  position: relative;
+}
+.ae-cat-entry:first-child {
+  border-top: 1px solid rgba(0,0,0,0.07);
+}
+.ae-cat-entry::before {
+  content: '';
+  position: absolute;
+  left: -5vw;
+  top: 0;
+  bottom: 0;
+  width: 0;
+  background: rgba(204,34,0,0.04);
+  transition: width 0.2s ease;
+}
+.ae-cat-entry:hover::before {
+  width: calc(100% + 10vw);
+}
+
+.ae-cat-entry-date {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.58rem;
+  color: #bbb;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-align: right;
+  padding-top: 4px;
+  line-height: 1.4;
+}
+.ae-cat-entry-date .ae-day {
+  display: block;
+  font-family: 'Bebas Neue', Impact, sans-serif;
+  font-size: 2rem;
+  color: #cc2200;
+  letter-spacing: 0.02em;
+  line-height: 1;
+}
+
+.ae-cat-entry-body {
+  position: relative;
+}
+.ae-cat-entry-body::before {
+  content: '';
+  position: absolute;
+  left: -17px;
+  top: 8px;
+  bottom: 8px;
+  width: 2px;
+  background: rgba(204,34,0,0.15);
+  transition: background 0.15s ease;
+}
+.ae-cat-entry:hover .ae-cat-entry-body::before {
+  background: #cc2200;
+}
+
+.ae-cat-entry-title {
+  font-family: 'Bebas Neue', Impact, sans-serif;
+  font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+  line-height: 0.95;
+  letter-spacing: 0.03em;
+  color: #111118;
+  margin: 0 0 12px;
+  transition: color 0.15s ease;
+}
+.ae-cat-entry:hover .ae-cat-entry-title {
+  color: #cc2200;
+}
+
+.ae-cat-entry-summary {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #666;
+  line-height: 1.6;
+  margin: 0 0 14px;
+  max-width: 580px;
+}
+
+.ae-cat-entry-read {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.6rem;
+  color: #bbb;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  transition: color 0.15s ease;
+}
+.ae-cat-entry:hover .ae-cat-entry-read {
+  color: #cc2200;
+}
+.ae-cat-entry-read::after { content: ' →'; }
+</style>
+
+<div class="ae-cat">
+  <header class="ae-cat-header">
+    <p class="ae-cat-label">Accountability dossier</p>
+    <h1 class="ae-cat-name">{{ .Title }}</h1>
+    <div class="ae-cat-meta">
+      <span class="ae-cat-count">{{ len .Pages }} {{ if eq (len .Pages) 1 }}article{{ else }}articles{{ end }} on record</span>
+      <span class="ae-cat-status"><span class="ae-cat-dot"></span>Ongoing</span>
+    </div>
+  </header>
+
+  <div class="ae-cat-entries">
+    {{ range .Pages.ByDate.Reverse }}
+    <a class="ae-cat-entry" href="{{ .Permalink }}">
+      <div class="ae-cat-entry-date">
+        <span class="ae-day">{{ .Date.Format "02" }}</span>
+        <span>{{ .Date.Format "Jan" }}</span>
+        <span>{{ .Date.Format "2006" }}</span>
+      </div>
+      <div class="ae-cat-entry-body">
+        <h2 class="ae-cat-entry-title">{{ .Title }}</h2>
+        {{ with .Summary }}
+        <p class="ae-cat-entry-summary">{{ . | plainify | truncate 160 }}</p>
+        {{ end }}
+        <span class="ae-cat-entry-read">Read</span>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
