@@ -14,7 +14,7 @@ categories: ["Colorado County", "TPIA Records"]
 **CC:** J. Eric Magee (e.magee@allison-bass.com)
 **DATE:** April 7, 2026
 
-**SUBJECT:** Wayne McKnight' Public Information Act request to the Colorado County Judge dated March 9, 2026 regarding liability insurance coverage
+**SUBJECT:** ██████████████████ Public Information Act request to the Colorado County Judge dated March 9, 2026 regarding liability insurance coverage
 
 ---
 
@@ -22,7 +22,7 @@ Outside counsel for Colorado County transmitted a "No Responsive Documents" resp
 
 **Attachment received:**
 
-- `20260407 - JEM to H. McKnight re Judge PIA - No Responsive Documents.pdf`
+- [`20260407_JEM_Judge_NoResponsive.pdf`](/docs/20260407_JEM_Judge_NoResponsive.pdf)
 
 ---
 
@@ -32,4 +32,4 @@ Outside counsel for Colorado County transmitted a "No Responsive Documents" resp
 
 **Attachment submitted:**
 
-- `Response_No_Responsive_Docs_April7_Final.pdf`
+- [`Response_No_Responsive_Docs_April7_Final.pdf`](/docs/Response_No_Responsive_Docs_April7_Final.pdf)

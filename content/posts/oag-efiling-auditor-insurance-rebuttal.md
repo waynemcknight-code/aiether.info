@@ -17,9 +17,9 @@ categories: ["Colorado County", "TPIA Records"]
 
 **Files uploaded:**
 
-- `rebuttal_brief_insurance_v2.pdf`
-- `Letter to Requestor - Colorado County Request.pdf`
-- `20260422 - PACKET - JEM to H. McKnight re Auditor PIA 15 Day Letter.pdf`
-- `20260422 - JEM to AG re H. McKnight Auditor PIA 15 Day Letter.pdf`
+- [`AG_Rebuttal_Brief_v2.docx.pdf`](/docs/AG_Rebuttal_Brief_v2.docx.pdf)
+- [`Letter to Requestor - Colorado County Request.pdf`](/docs/Letter%20to%20Requestor%20-%20Colorado%20County%20Request.pdf)
+- [`20260422_Packet_Auditor_15Day.pdf`](/docs/20260422_Packet_Auditor_15Day.pdf)
+- [`20260422_JEM_AG_Auditor_15Day.pdf`](/docs/20260422_JEM_AG_Auditor_15Day.pdf)
 
 **Payment:** $7.50 — Trace Number 302OR70422010

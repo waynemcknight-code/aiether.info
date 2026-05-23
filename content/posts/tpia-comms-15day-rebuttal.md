@@ -14,7 +14,7 @@ categories: ["Colorado County", "TPIA Records"]
 **CC:** J. Eric Magee (e.magee@allison-bass.com)
 **DATE:** March 31, 2026
 
-**SUBJECT:** Wayne McKnight's Public Information Act request to Colorado County dated March 10, 2026 regarding communications
+**SUBJECT:** ██████████████████ Public Information Act request to Colorado County dated March 10, 2026 regarding communications
 
 ---
 
@@ -22,8 +22,8 @@ Outside counsel for Colorado County transmitted a 15-day letter to the Texas Att
 
 **Attachments received:**
 
-- `20260331 - JEM to AG re H. McKnight Communications PIA 15 Day Letter.pdf`
-- `20260331 - PACKET - JEM to H. McKnight re Communications PIA 15 Day Letter.pdf`
+- [`20260331_JEM_AG_Communications_15Day.pdf`](/docs/20260331_JEM_AG_Communications_15Day.pdf)
+- [`20260331_Packet_Communications_15Day.pdf`](/docs/20260331_Packet_Communications_15Day.pdf)
 
 ---
 
@@ -33,4 +33,4 @@ Outside counsel for Colorado County transmitted a 15-day letter to the Texas Att
 
 **Attachment submitted:**
 
-- `McKnight_AG_Rebuttal_Communications.docx.pdf`
+- [`AG_Rebuttal_Communications.pdf`](/docs/AG_Rebuttal_Communications.pdf)

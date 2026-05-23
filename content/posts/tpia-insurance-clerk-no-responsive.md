@@ -14,7 +14,7 @@ categories: ["Colorado County", "TPIA Records"]
 **CC:** J. Eric Magee (e.magee@allison-bass.com)
 **DATE:** April 8, 2026
 
-**SUBJECT:** Wayne McKnight's Public Information Act request to the Colorado County Clerk regarding liability insurance coverage
+**SUBJECT:** ██████████████████ Public Information Act request to the Colorado County Clerk regarding liability insurance coverage
 
 ---
 
@@ -22,4 +22,4 @@ Outside counsel for Colorado County transmitted a "No Responsive Documents" resp
 
 **Attachment received:**
 
-- `20260408 - JEM to H. McKnight re Clerk PIA - No Responsive Documents.pdf`
+- [`20260408_JEM_Clerk_NoResponsive.pdf`](/docs/20260408_JEM_Clerk_NoResponsive.pdf)

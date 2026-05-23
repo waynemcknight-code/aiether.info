@@ -14,7 +14,7 @@ categories: ["Colorado County", "TPIA Records"]
 **CC:** J. Eric Magee (e.magee@allison-bass.com)
 **DATE:** March 30, 2026
 
-**SUBJECT:** Wayne McKnight' Public Information Act request to the Colorado County Sheriff's Office dated March 9, 2026 regarding video and audio recordings of the incident involving inmate ████████████████ on the evening of January 19, 2026
+**SUBJECT:** ██████████████████ Public Information Act request to the Colorado County Sheriff's Office dated March 9, 2026 regarding video and audio recordings of the incident involving inmate ████████████████ on the evening of January 19, 2026
 
 ---
 
@@ -22,8 +22,8 @@ Outside counsel for the Colorado County Sheriff's Office transmitted a 15-day le
 
 **Attachments received:**
 
-- `20260330 - PACKET - JEM to H. McKnight re Video and Audio PIA 15 Day Letter.pdf`
-- `20260330 - JEM to AG re H. McKnight Video and Audio PIA 15 Day Letter.pdf`
+- [`20260330_Packet_VideoAudio_15Day.pdf`](/docs/20260330_Packet_VideoAudio_15Day.pdf)
+- [`20260330_JEM_AG_VideoAudio_15Day.pdf`](/docs/20260330_JEM_AG_VideoAudio_15Day.pdf)
 
 ---
 
@@ -33,4 +33,4 @@ Outside counsel for the Colorado County Sheriff's Office transmitted a 15-day le
 
 **Attachment submitted:**
 
-- `AG_Rebuttal_Brief_v2.docx.pdf`
+- [`AG_Rebuttal_Brief_v2.docx.pdf`](/docs/AG_Rebuttal_Brief_v2.docx.pdf)

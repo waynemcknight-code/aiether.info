@@ -25,4 +25,4 @@ The Colorado County Sheriff's Office transmitted an invoice for costs associated
 
 **Attachment received:**
 
-- `05_02_2026 Response.pdf`
+- [`Bannert_Employment_Records_20260511.pdf`](/docs/Bannert_Employment_Records_20260511.pdf)

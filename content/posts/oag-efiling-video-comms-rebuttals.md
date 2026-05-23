@@ -20,9 +20,9 @@ categories: ["Colorado County", "TPIA Records"]
 
 - `Colorado County 10 day letter.pdf`
 - `Original request by requestor.pdf`
-- `HIPAA Release Loraine McKnight.pdf`
+- [`HIPAA_Release_Redacted.pdf`](/docs/HIPAA_Release_Redacted.pdf)
 - `Colorado County 15 day letter.pdf`
-- `McKnight_AG_Rebuttal.pdf`
+- [`AG_Rebuttal_Brief_v2.docx.pdf`](/docs/AG_Rebuttal_Brief_v2.docx.pdf)
 
 **Payment:** $7.50 — Trace Number 302OR70387490 — Transaction Date April 2, 2026, 8:27:29 PM CST
 
@@ -39,7 +39,7 @@ categories: ["Colorado County", "TPIA Records"]
 
 - `Exhibit A.pdf`
 - `Exhibit B.pdf`
-- `Exhibiit C.pdf`
-- `McKnight_AG_Rebuttal_Communications.pdf`
+- `Exhibit C.pdf`
+- [`AG_Rebuttal_Communications.pdf`](/docs/AG_Rebuttal_Communications.pdf)
 
 **Payment:** $7.50 — Trace Number 302OR70387496 — Transaction Date April 2, 2026, 8:32:32 PM CST

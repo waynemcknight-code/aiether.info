@@ -29,4 +29,4 @@ The response was signed by **Michele Freeland, Legal Assistant IV**, Office of G
 
 **Attachment received:**
 
-- `2026-0002467.pdf`
+- [`2026-0002467.pdf`](/docs/2026-0002467.pdf)

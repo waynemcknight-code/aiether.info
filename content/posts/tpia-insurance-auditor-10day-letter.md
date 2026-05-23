@@ -14,7 +14,7 @@ categories: ["Colorado County", "TPIA Records"]
 **CC:** J. Eric Magee (e.magee@allison-bass.com)
 **DATE:** April 8, 2026
 
-**SUBJECT:** Wayne McKnight's Public Information Act request to the Colorado County Auditor regarding liability insurance coverage
+**SUBJECT:** ██████████████████ Public Information Act request to the Colorado County Auditor regarding liability insurance coverage
 
 ---
 
@@ -22,6 +22,6 @@ Outside counsel for Colorado County transmitted a 10-day letter regarding the TP
 
 **Attachments received:**
 
-- `20260408 - JEM to H. McKnight re Auditor PIA 10 Day Letter.pdf`
-- `20260408 - JEM to AG re H. McKnight Auditor PIA 10 Day Letter.pdf`
-- `20260408 - JEM to TAC re Third Party Notice Letter McKnight PIA.pdf`
+- [`20260408_JEM_Auditor_10Day.pdf`](/docs/20260408_JEM_Auditor_10Day.pdf)
+- [`20260408_JEM_AG_Auditor_10Day.pdf`](/docs/20260408_JEM_AG_Auditor_10Day.pdf)
+- [`20260408_JEM_TAC_ThirdParty.pdf`](/docs/20260408_JEM_TAC_ThirdParty.pdf)

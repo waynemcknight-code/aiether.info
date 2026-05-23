@@ -14,7 +14,7 @@ categories: ["Colorado County", "TPIA Records"]
 **CC:** J. Eric Magee (e.magee@allison-bass.com)
 **DATE:** April 7, 2026
 
-**SUBJECT:** Wayne McKnight's Public Information Act request to the Colorado County Treasurer dated April 2, 2026
+**SUBJECT:** ██████████████████ Public Information Act request to the Colorado County Treasurer dated April 2, 2026
 
 ---
 
@@ -22,4 +22,4 @@ Outside counsel for Colorado County transmitted a "No Responsive Documents" resp
 
 **Attachment received:**
 
-- `20260407 - JEM to H. McKnight re Treasurer PIA - No Responsive Documents.pdf`
+- [`20260407_JEM_Treasurer_NoResponsive.pdf`](/docs/20260407_JEM_Treasurer_NoResponsive.pdf)
