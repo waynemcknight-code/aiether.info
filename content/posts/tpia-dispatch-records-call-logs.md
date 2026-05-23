@@ -35,7 +35,7 @@ Under the Texas Public Information Act (Texas Government Code, Chapter 552), I a
 
 - Audio recording of my call to dispatch (if any — non-emergency number)
 - Computer Aided Dispatch (CAD) record/incident report
-- Any notes or documentation regarding my request for EMS to conduct a medical check on Loraine McKnight at the Colorado County Jail
+- Any notes or documentation regarding my request for EMS to conduct a medical check on ████████████████ at the Colorado County Jail
 - EMS dispatch records and response documentation
 - Any reports from EMS regarding the welfare check
 - Any follow-up actions taken or reports generated

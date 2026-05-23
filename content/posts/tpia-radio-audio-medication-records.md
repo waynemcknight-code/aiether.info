@@ -22,9 +22,9 @@ Columbus, TX 78934
 
 Dear Public Information Coordinator:
 
-Pursuant to the Texas Public Information Act (Texas Government Code Chapter 552), I am requesting on behalf of my wife, Loraine McKnight, copies of the following records related to her (DOB: ██████████) during her incarceration at the Colorado County Jail from January 12, 2026 through January 21, 2026. Mrs. McKnight is copied on this request.
+Pursuant to the Texas Public Information Act (Texas Government Code Chapter 552), I am requesting on behalf of my wife, ████████████████, copies of the following records related to her (DOB: ██████████) during her incarceration at the Colorado County Jail from January 12, 2026 through January 21, 2026. ████████████████ is copied on this request.
 
-This request relates to the January 19, 2026 incident in which Mrs. McKnight was injured. According to the Colorado County EMS report (Incident #260119-2236-COLORADO), Mrs. McKnight asked to verify her medications and was told she would have to 'request to see the nurse.' The EMS report documents that Mrs. McKnight stated she wanted to 'look at the bottles' and that she 'reached for her bag of medicine' — indicating she was attempting to TAKE her medication, not refuse it. I am seeking documentation to verify whether a medication refusal actually occurred as claimed, or whether the 'refusal' report was false via radio to Lt. Holly Smith.
+This request relates to the January 19, 2026 incident in which ████████████████ was injured. According to the Colorado County EMS report (Incident #260119-2236-COLORADO), ████████████████ asked to verify her medications and was told she would have to 'request to see the nurse.' The EMS report documents that ████████████████ stated she wanted to 'look at the bottles' and that she 'reached for her bag of medicine' — indicating she was attempting to TAKE her medication, not refuse it. I am seeking documentation to verify whether a medication refusal actually occurred as claimed, or whether the 'refusal' report was false via radio to Lt. Holly Smith.
 
 ---
 
@@ -34,11 +34,11 @@ This request relates to the January 19, 2026 incident in which Mrs. McKnight was
 
 All radio transmissions, dispatch audio recordings, and internal jail communications (audio) from January 19, 2026, between the hours of 8:00 PM and 11:00 PM, including but not limited to:
 
-a. Any radio calls regarding inmate Loraine McKnight
+a. Any radio calls regarding inmate ████████████████
 
 b. Any radio calls referencing "medication," "medcall," "refusal," "refusing," or "non-compliance"
 
-c. Any radio calls requesting supervisor/lieutenant response to the housing area where Loraine McKnight was housed
+c. Any radio calls requesting supervisor/lieutenant response to the housing area where ████████████████ was housed
 
 d. Any radio calls regarding a "disturbance," "altercation," or use of force
 
@@ -46,15 +46,15 @@ e. Any radio calls requesting medical assistance or EMS
 
 **2. MEDICATION REFUSAL DOCUMENTATION**
 
-a. Any and all "Refusal of Medical Treatment" forms, "Medication Refusal" forms, or equivalent documentation signed by or presented to Loraine McKnight during her incarceration from January 12–21, 2026
+a. Any and all "Refusal of Medical Treatment" forms, "Medication Refusal" forms, or equivalent documentation signed by or presented to ████████████████ during her incarceration from January 12–21, 2026
 
-b. If no such forms exist, please confirm in writing that no medication refusal forms were signed by or presented to Loraine McKnight during this period
+b. If no such forms exist, please confirm in writing that no medication refusal forms were signed by or presented to ████████████████ during this period
 
 **3. MEDICATION ADMINISTRATION RECORDS**
 
-a. The Medication Administration Record (MAR) for Loraine McKnight for January 19, 2026, showing all medications administered, times, and administering staff
+a. The Medication Administration Record (MAR) for ████████████████ for January 19, 2026, showing all medications administered, times, and administering staff
 
-b. Any documentation of medications NOT administered to Loraine McKnight on January 19, 2026, and the reason for non-administration
+b. Any documentation of medications NOT administered to ████████████████ on January 19, 2026, and the reason for non-administration
 
 **4. MED-PASS PROTOCOLS**
 
@@ -80,4 +80,4 @@ Respectfully,
 ████████████████
 ████████████████████████████
 
-cc: Loraine McKnight, Eugenia Behrens, Carolyn Olson, Jay Johannes
+cc: ████████████████, Eugenia Behrens, Carolyn Olson, Jay Johannes

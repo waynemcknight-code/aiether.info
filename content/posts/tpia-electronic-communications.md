@@ -20,4 +20,4 @@ Columbus, TX 78934
 
 *Request submitted as PDF attachment: TPIA\_Request\_Official\_Communications.pdf.*
 
-The request sought electronic communications — including emails, text messages, and other electronic records — between Colorado County officials relating to the January 19, 2026 incident at the Colorado County Jail involving Loraine McKnight.
+The request sought electronic communications — including emails, text messages, and other electronic records — between Colorado County officials relating to the January 19, 2026 incident at the Colorado County Jail involving ████████████████.

@@ -1,5 +1,5 @@
 ---
-title: "TPIA Request: Inmate Grievance Records — Loraine McKnight"
+title: "TPIA Request: Inmate Grievance Records — ████████████████"
 date: 2026-01-21
 draft: false
 categories: ["Colorado County", "TPIA Records"]
@@ -17,13 +17,13 @@ Colorado County Sheriff's Office
 Attn: Custodian of Records / Public Information Officer
 Columbus, TX 78934
 
-**Re: Public Information Request — Inmate Grievance Records, Loraine McKnight**
+**Re: Public Information Request — Inmate Grievance Records, ████████████████**
 
 Dear Public Information Officer / Records Custodian:
 
 Under the Texas Public Information Act (Texas Government Code, Chapter 552), I am requesting copies of the following records from the Colorado County Jail:
 
-**All grievances filed by inmate Loraine McKnight**, including but not limited to:
+**All grievances filed by inmate ████████████████**, including but not limited to:
 
 1. All formal and informal grievance submissions
 2. All responses to grievances from jail staff or administration

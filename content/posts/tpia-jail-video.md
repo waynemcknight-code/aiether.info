@@ -18,9 +18,9 @@ Columbus, TX 78934
 
 **Re: Public Information Request — Jail Video Footage**
 
-*Request submitted as PDF attachment: TPIA\_Request\_Jail\_Video.pdf, accompanied by HIPAA Authorization for Loraine McKnight.*
+*Request submitted as PDF attachment: TPIA\_Request\_Jail\_Video.pdf, accompanied by HIPAA Authorization for ████████████████.*
 
-The request sought jail surveillance video footage from the Colorado County Jail pertaining to the January 19, 2026 incident involving Loraine McKnight.
+The request sought jail surveillance video footage from the Colorado County Jail pertaining to the January 19, 2026 incident involving ████████████████.
 
 ---
 
