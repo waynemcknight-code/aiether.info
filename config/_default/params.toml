@@ -1,0 +1,26 @@
+colorScheme = "fire"
+
+[author]
+  name = "Aiether"
+  headline = "Colorado County Accountability"
+  bio = "Documenting failures in Colorado County governance — PREA non-compliance, federal grant misuse, and public accountability."
+
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+
+article.showDate = true
+article.showAuthor = false
+article.showBreadcrumbs = true
+article.showReadingTime = true
+article.showTableOfContents = true
+
+list.showBreadcrumbs = true
+
+header.layout = "basic"
+footer.showCopyright = false
+footer.showThemeAttribution = false
+footer.showScrollToTop = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5

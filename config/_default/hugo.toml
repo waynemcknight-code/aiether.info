@@ -1,0 +1,16 @@
+baseURL = 'https://aiether.info/'
+languageCode = 'en'
+title = 'Aiether'
+theme = 'congo'
+defaultContentLanguage = 'en'
+enableRobotsTXT = true
+paginate = 10
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

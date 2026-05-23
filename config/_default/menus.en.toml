@@ -1,0 +1,9 @@
+[[main]]
+  name = "Articles"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Colorado County"
+  url = "/categories/colorado-county/"
+  weight = 20
