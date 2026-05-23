@@ -1,5 +1,5 @@
 baseURL = 'https://aiether.info/'
-languageCode = 'en'
+locale = 'en'
 title = 'Aiether'
 theme = 'congo'
 defaultContentLanguage = 'en'
