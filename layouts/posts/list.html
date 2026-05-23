@@ -1,0 +1,204 @@
+{{ define "main" }}
+<style>
+.ae-list {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 60px 5vw 80px;
+}
+
+.ae-list-header {
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+  padding-bottom: 32px;
+  margin-bottom: 56px;
+}
+
+.ae-list-eyebrow {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.65rem;
+  color: #cc2200;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  margin: 0 0 14px;
+}
+.ae-list-eyebrow::before { content: '// '; opacity: 0.5; }
+
+.ae-list-title {
+  font-family: 'Bebas Neue', Impact, sans-serif;
+  font-size: clamp(3rem, 8vw, 6rem);
+  line-height: 0.9;
+  letter-spacing: 0.04em;
+  color: #111118;
+  margin: 0 0 12px;
+}
+
+.ae-list-sub {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #777;
+  letter-spacing: 0.06em;
+  margin: 0;
+}
+
+/* ── Article entries ── */
+.ae-entries {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.ae-entry {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  gap: 0 32px;
+  padding: 36px 0;
+  border-bottom: 1px solid rgba(0,0,0,0.07);
+  text-decoration: none;
+  position: relative;
+  transition: background 0.15s ease;
+}
+.ae-entry:first-child {
+  border-top: 1px solid rgba(0,0,0,0.07);
+}
+.ae-entry::before {
+  content: '';
+  position: absolute;
+  left: -5vw;
+  top: 0;
+  bottom: 0;
+  width: 0;
+  background: rgba(204,34,0,0.04);
+  transition: width 0.2s ease;
+}
+.ae-entry:hover::before {
+  width: calc(100% + 10vw);
+}
+
+.ae-entry-date {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.6rem;
+  color: #aaa;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  line-height: 1.4;
+  padding-top: 6px;
+  text-align: right;
+}
+.ae-entry-date span {
+  display: block;
+}
+.ae-entry-date .ae-day {
+  font-size: 1.8rem;
+  font-family: 'Bebas Neue', Impact, sans-serif;
+  color: #cc2200;
+  letter-spacing: 0.02em;
+  line-height: 1;
+}
+
+.ae-entry-body {
+  position: relative;
+}
+.ae-entry-body::before {
+  content: '';
+  position: absolute;
+  left: -17px;
+  top: 8px;
+  bottom: 8px;
+  width: 2px;
+  background: rgba(204,34,0,0.15);
+  transition: background 0.15s ease;
+}
+.ae-entry:hover .ae-entry-body::before {
+  background: #cc2200;
+}
+
+.ae-entry-cat {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.58rem;
+  color: #cc2200;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  margin: 0 0 8px;
+  display: block;
+}
+
+.ae-entry-title {
+  font-family: 'Bebas Neue', Impact, sans-serif;
+  font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+  line-height: 0.95;
+  letter-spacing: 0.03em;
+  color: #111118;
+  margin: 0 0 12px;
+  transition: color 0.15s ease;
+}
+.ae-entry:hover .ae-entry-title {
+  color: #cc2200;
+}
+
+.ae-entry-summary {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #666;
+  line-height: 1.6;
+  margin: 0 0 14px;
+  max-width: 580px;
+}
+
+.ae-entry-read {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.6rem;
+  color: #aaa;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  transition: color 0.15s ease;
+}
+.ae-entry:hover .ae-entry-read {
+  color: #cc2200;
+}
+.ae-entry-read::after { content: ' →'; }
+
+.ae-empty {
+  font-family: 'Barlow Condensed', sans-serif;
+  color: #999;
+  font-size: 1.1rem;
+  padding: 60px 0;
+  text-align: center;
+}
+</style>
+
+<div class="ae-list">
+  <header class="ae-list-header">
+    <p class="ae-list-eyebrow">On record</p>
+    <h1 class="ae-list-title">Articles</h1>
+    <p class="ae-list-sub">{{ len .Pages }} published &nbsp;·&nbsp; Unfiltered &nbsp;·&nbsp; Documented</p>
+  </header>
+
+  <div class="ae-entries">
+    {{ $pages := .Pages.ByDate.Reverse }}
+    {{ if $pages }}
+      {{ range $pages }}
+      <a class="ae-entry" href="{{ .Permalink }}">
+        <div class="ae-entry-date">
+          <span class="ae-day">{{ .Date.Format "02" }}</span>
+          <span>{{ .Date.Format "Jan" }}</span>
+          <span>{{ .Date.Format "2006" }}</span>
+        </div>
+        <div class="ae-entry-body">
+          {{ with .Params.categories }}
+          <span class="ae-entry-cat">{{ index . 0 }}</span>
+          {{ end }}
+          <h2 class="ae-entry-title">{{ .Title }}</h2>
+          {{ with .Summary }}
+          <p class="ae-entry-summary">{{ . | plainify | truncate 160 }}</p>
+          {{ end }}
+          <span class="ae-entry-read">Read</span>
+        </div>
+      </a>
+      {{ end }}
+    {{ else }}
+      <p class="ae-empty">No articles yet.</p>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
