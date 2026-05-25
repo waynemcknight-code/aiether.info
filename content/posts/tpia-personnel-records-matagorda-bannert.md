@@ -2,7 +2,7 @@
 title: "TPIA Request: Faith Marie Bannert Employment Records — Matagorda County — May 2, 2026"
 date: 2026-05-02
 draft: false
-categories: ["Colorado County", "TPIA Records"]
+categories: ["Matagorda County", "TPIA Records"]
 ---
 
 *Submitted via email to Matagorda County, May 2, 2026.*
