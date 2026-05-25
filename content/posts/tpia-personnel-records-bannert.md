@@ -40,3 +40,11 @@ Please provide records in electronic format. If any portion is withheld, please 
 Sincerely,
 
 ██████████████████
+
+---
+
+## CCSO Records — May 11, 2026
+
+CCSO produced its internal Records Request Processing Form for this request. The invoice for costs was transmitted the following day (May 12, 2026).
+
+- [`Bannert_Employment_Records_20260511.pdf`](/docs/Bannert_Employment_Records_20260511.pdf)

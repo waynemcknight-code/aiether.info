@@ -28,11 +28,3 @@ A Texas Public Information Act request was submitted to Matagorda County for emp
 5. Any records related to Faith Marie Bannert's departure, termination, resignation, or non-renewal.
 
 **Fee waiver requested** pursuant to Texas Government Code §552.267.
-
----
-
-## Response — May 11, 2026
-
-Matagorda County produced responsive employment records within the statutory period.
-
-- [`Bannert_Employment_Records_20260511.pdf`](/docs/Bannert_Employment_Records_20260511.pdf)
