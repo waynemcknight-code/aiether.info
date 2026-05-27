@@ -45,3 +45,15 @@ categories: ["Colorado County", "TPIA Records"]
 - [`AG_Rebuttal_Communications.pdf`](/docs/AG_Rebuttal_Communications.pdf)
 
 **Payment:** $7.50 — Trace Number 302OR70387496 — Transaction Date April 2, 2026, 8:32:32 PM CST
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-03-30_210602_Public-Information-Act-request-to-the-Colorado-County-Sherif.pdf`](/docs/2026-03-30_210602_Public-Information-Act-request-to-the-Colorado-County-Sherif.pdf) — 2026-03-30 — Allison Bass & Magee *[attaches: 20260330 - PACKET - JEM to H. McKnight re Video and Audio PIA 15 Day Letter.pdf, 20260330 - JEM to AG re H. McKnight Video and Audio PIA 15 Day Letter.pdf]*
+- [`2026-03-31_224409_s-Public-Information-Act-request-to-Colorado-County-dated-Ma.pdf`](/docs/2026-03-31_224409_s-Public-Information-Act-request-to-Colorado-County-dated-Ma.pdf) — 2026-03-31 — Allison Bass & Magee *[attaches: 20260331 - JEM to AG re H. McKnight Communications PIA 15 Day Letter.pdf, 20260331 - PACKET - JEM to H. McKnight re Communications PIA 15 Day Letter.pdf]*
+- [`2026-04-02_155643_Re-s-Public-Information-Act-request-to-Colorado-County-dated.pdf`](/docs/2026-04-02_155643_Re-s-Public-Information-Act-request-to-Colorado-County-dated.pdf) — 2026-04-02 — Requestor *[attaches: McKnight_AG_Rebuttal_Communications.docx.pdf, Gmail - Re_ Wayne McKnight' Public Information Act request to Colorado County dated March 10, 2026 regarding communications.pdf]*
+- [`2026-04-02_163333_Re-Public-Information-Act-request-to-the-Colorado-County-She.pdf`](/docs/2026-04-02_163333_Re-Public-Information-Act-request-to-the-Colorado-County-She.pdf) — 2026-04-02 — Requestor *[attaches: AG_Rebuttal_Brief_v2.docx.pdf]*
+- [`2026-04-02_235212_Fwd-Public-Information-Act-request-to-the-Colorado-County-Sh.pdf`](/docs/2026-04-02_235212_Fwd-Public-Information-Act-request-to-the-Colorado-County-Sh.pdf) — 2026-04-02 — Requestor *[attaches: AG_Rebuttal_Brief_v2.docx.pdf]*

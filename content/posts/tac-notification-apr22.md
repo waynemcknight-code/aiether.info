@@ -24,3 +24,11 @@ The Texas Association of Counties (TAC) transmitted correspondence to the reques
 **Attachment received:**
 
 - [`Letter to Requestor - Colorado County Request.pdf`](/docs/Letter_to_Requestor_Colorado_County_Request.pdf)
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-04-22_201007_s-Public-Information-Act-request-to-the-Colorado-County-Audi.pdf`](/docs/2026-04-22_201007_s-Public-Information-Act-request-to-the-Colorado-County-Audi.pdf) — 2026-04-22 — Allison Bass & Magee *[attaches: 20260422 - PACKET - JEM to H. McKnight re Auditor PIA 15 Day Letter.pdf, 20260422 - JEM to AG re H. McKnight Auditor PIA 15 Day Letter.pdf]*

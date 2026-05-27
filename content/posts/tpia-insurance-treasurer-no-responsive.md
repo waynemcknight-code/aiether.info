@@ -23,3 +23,11 @@ Outside counsel for Colorado County transmitted a "No Responsive Documents" resp
 **Attachment received:**
 
 - [`20260407_JEM_Treasurer_NoResponsive.pdf`](/docs/20260407_JEM_Treasurer_NoResponsive.pdf)
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-04-07_215609_s-Public-Information-Act-request-to-the-Colorado-County-Trea.pdf`](/docs/2026-04-07_215609_s-Public-Information-Act-request-to-the-Colorado-County-Trea.pdf) — 2026-04-07 — Allison Bass & Magee *[attaches: 20260407 - JEM to H. McKnight re Treasurer PIA - No Responsive Documents.pdf]*

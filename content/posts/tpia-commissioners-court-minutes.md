@@ -50,3 +50,11 @@ Sincerely,
 /s/ ██████████████████______
 
 ██████████████████
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-05-26_235340_Texas-Public-Information-Act-Request-Commissioners-Court-Min.pdf`](/docs/2026-05-26_235340_Texas-Public-Information-Act-Request-Commissioners-Court-Min.pdf) — 2026-05-26 — Requestor

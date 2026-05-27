@@ -33,3 +33,12 @@ Outside counsel for Colorado County transmitted a "No Responsive Documents" resp
 **Attachment submitted:**
 
 - [`Response_No_Responsive_Docs_April7_Final.pdf`](/docs/Response_No_Responsive_Docs_April7_Final.pdf)
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-04-07_215559_Public-Information-Act-request-to-the-Colorado-County-Judge.pdf`](/docs/2026-04-07_215559_Public-Information-Act-request-to-the-Colorado-County-Judge.pdf) — 2026-04-07 — Allison Bass & Magee *[attaches: 20260407 - JEM to H. McKnight re Judge PIA - No Responsive Documents.pdf]*
+- [`2026-04-07_232936_Re-Public-Information-Act-request-to-the-Colorado-County-Jud.pdf`](/docs/2026-04-07_232936_Re-Public-Information-Act-request-to-the-Colorado-County-Jud.pdf) — 2026-04-07 — Requestor *[attaches: Response_No_Responsive_Docs_April7_Final.pdf]*

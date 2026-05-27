@@ -44,3 +44,12 @@ Sincerely,
 *Response received April 23, 2026 from Eugenia Behrens, Administrative Assistant, Colorado County Sheriff's Office: "Received."*
 
 *A subsequent response dated April 30, 2026 claimed "No Responsive Records" for all five categories for both employees — a claim later challenged before the Texas Attorney General. See: [AG Complaint — False No Responsive Records Response](/posts/tpia-ag-complaint-false-no-records/).*
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-05-08_221014_Jail-Staff-Personnel-Records.pdf`](/docs/2026-05-08_221014_Jail-Staff-Personnel-Records.pdf) — 2026-05-08 — Requestor
+- [`2026-05-11_140242_RE-Jail-Staff-Personnel-Records.pdf`](/docs/2026-05-11_140242_RE-Jail-Staff-Personnel-Records.pdf) — 2026-05-11 — Colorado County

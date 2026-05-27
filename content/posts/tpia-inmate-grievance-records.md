@@ -68,3 +68,14 @@ Sincerely,
 ██████████████████
 ████████████████
 ████████████████████████████
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-01-21_180416_Public-Information-Request---Inmate-Grievance-Records.pdf`](/docs/2026-01-21_180416_Public-Information-Request---Inmate-Grievance-Records.pdf) — 2026-01-21 — Requestor
+- [`2026-01-21_180808_RE-Public-Information-Request---Inmate-Grievance-Records.pdf`](/docs/2026-01-21_180808_RE-Public-Information-Request---Inmate-Grievance-Records.pdf) — 2026-01-21 — Colorado County
+- [`2026-02-02_200846_Open-Records-Request-01212026-Grievances.pdf`](/docs/2026-02-02_200846_Open-Records-Request-01212026-Grievances.pdf) — 2026-02-02 — Colorado County *[attaches: 02.02.2026_Ltr_McKnight_Open Records Request - Grieve.pdf]*
+- [`2026-02-02_232709_Re-Open-Records-Request-01212026-Grievances.pdf`](/docs/2026-02-02_232709_Re-Open-Records-Request-01212026-Grievances.pdf) — 2026-02-02 — Requestor

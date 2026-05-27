@@ -31,3 +31,12 @@ Colorado County Legal Secretary Angela Ford transmitted a response to an outstan
 ██████████████████ replied to Angela Ford:
 
 > "The Texas Rangers provided a whole lot more information, but thank you."
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-05-05_141759_Open-Records-Requests.pdf`](/docs/2026-05-05_141759_Open-Records-Requests.pdf) — 2026-05-05 — Colorado County *[attaches: 04.09.2026_Ltr_AG Opinion.pdf, 04.10.2026_Ltr_AG Opinion.pdf…]*
+- [`2026-05-05_142017_Re-Open-Records-Requests.pdf`](/docs/2026-05-05_142017_Re-Open-Records-Requests.pdf) — 2026-05-05 — Requestor

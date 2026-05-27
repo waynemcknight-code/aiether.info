@@ -21,3 +21,12 @@ Columbus, TX 78934
 *Request submitted as PDF attachment: TPIA\_Request\_Insurance\_Policy.pdf.*
 
 The request sought Colorado County's liability insurance policy information, including coverage applicable to claims arising from the Colorado County Sheriff's Office and Colorado County Jail.
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-04-03_024248_Demand-Letter-for-Insurance.pdf`](/docs/2026-04-03_024248_Demand-Letter-for-Insurance.pdf) — 2026-04-03 — Requestor *[attaches: Exhibit A(1).pdf, DEMAND_Insurance_552.302_April2.docx.pdf…]*
+- [`2026-04-03_024738_Fwd-Demand-Letter-for-Insurance.pdf`](/docs/2026-04-03_024738_Fwd-Demand-Letter-for-Insurance.pdf) — 2026-04-03 — Requestor *[attaches: Exhibit A(1).pdf, DEMAND_Insurance_552.302_April2.docx.pdf…]*

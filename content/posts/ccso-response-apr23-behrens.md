@@ -24,3 +24,11 @@ The Colorado County Sheriff's Office transmitted a response to the outstanding o
 **Attachment received:**
 
 - [`04_23_2026 Response.pdf`](/docs/04_23_2026_Response.pdf)
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-05-07_192620_April-23-2026-Response.pdf`](/docs/2026-05-07_192620_April-23-2026-Response.pdf) — 2026-05-07 — Colorado County *[attaches: 04_23_2026 Response.pdf]*

@@ -43,3 +43,11 @@ Please advise of the applicable copy and certification fees (after any accommoda
 Sincerely,
 
 ██████████████████
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-05-26_235322_Request-for-Court-Records-Criminal-Case-of-Tomas-Ramirez-for.pdf`](/docs/2026-05-26_235322_Request-for-Court-Records-Criminal-Case-of-Tomas-Ramirez-for.pdf) — 2026-05-26 — Requestor

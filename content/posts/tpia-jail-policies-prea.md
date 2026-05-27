@@ -61,3 +61,16 @@ Sincerely,
 ██████████████████
 ████████████████
 ████████████████████████████
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-01-21_165026_Texas-Public-Information-Act-Request-Jail-Policies-and-PREA.pdf`](/docs/2026-01-21_165026_Texas-Public-Information-Act-Request-Jail-Policies-and-PREA.pdf) — 2026-01-21 — Requestor
+- [`2026-01-21_170444_RE.pdf`](/docs/2026-01-21_170444_RE.pdf) — 2026-01-21 — Colorado County
+- [`2026-02-02_200439_Open-Records-Request-012120262-PREA.pdf`](/docs/2026-02-02_200439_Open-Records-Request-012120262-PREA.pdf) — 2026-02-02 — Colorado County *[attaches: 02.02.2026_Ltr_McKnight_Open Records Request - PREA.pdf]*
+- [`2026-02-02_232653_Re-Open-Records-Request-012120262-PREA.pdf`](/docs/2026-02-02_232653_Re-Open-Records-Request-012120262-PREA.pdf) — 2026-02-02 — Requestor
+- [`2026-02-06_220709_Open-Records-Request---PREA.pdf`](/docs/2026-02-06_220709_Open-Records-Request---PREA.pdf) — 2026-02-06 — Colorado County *[attaches: 02.06.2026_Ltr_McKnight_Request for Determination - PREA.pdf]*
+- [`2026-02-07_192341_Re-Open-Records-Request---PREA.pdf`](/docs/2026-02-07_192341_Re-Open-Records-Request---PREA.pdf) — 2026-02-07 — Requestor *[attaches: AG_Brief_66377740_Jail_Policies.docx.pdf]*

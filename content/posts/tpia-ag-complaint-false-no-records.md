@@ -102,3 +102,13 @@ Available upon request:
 Respectfully submitted,
 
 ██████████████████
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-05-08_011148_TPIA-Request---Criminal-responses.pdf`](/docs/2026-05-08_011148_TPIA-Request---Criminal-responses.pdf) — 2026-05-08 — Requestor
+- [`2026-05-08_221014_Jail-Staff-Personnel-Records.pdf`](/docs/2026-05-08_221014_Jail-Staff-Personnel-Records.pdf) — 2026-05-08 — Requestor
+- [`2026-05-11_140242_RE-Jail-Staff-Personnel-Records.pdf`](/docs/2026-05-11_140242_RE-Jail-Staff-Personnel-Records.pdf) — 2026-05-11 — Colorado County

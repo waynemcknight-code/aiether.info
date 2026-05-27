@@ -28,3 +28,12 @@ A formal demand letter was transmitted to Colorado County Judge Ty Prause and ou
 ---
 
 *The same correspondence was separately forwarded to an undisclosed recipients list on April 3, 2026.*
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-04-03_024248_Demand-Letter-for-Insurance.pdf`](/docs/2026-04-03_024248_Demand-Letter-for-Insurance.pdf) — 2026-04-03 — Requestor *[attaches: Exhibit A(1).pdf, DEMAND_Insurance_552.302_April2.docx.pdf…]*
+- [`2026-04-03_024738_Fwd-Demand-Letter-for-Insurance.pdf`](/docs/2026-04-03_024738_Fwd-Demand-Letter-for-Insurance.pdf) — 2026-04-03 — Requestor *[attaches: Exhibit A(1).pdf, DEMAND_Insurance_552.302_April2.docx.pdf…]*

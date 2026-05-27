@@ -55,3 +55,11 @@ The requestor asks the Texas Attorney General to investigate the false "No Respo
 ### VI. Supporting Documentation
 
 TCOLE employment verification records for Lt. Holly Smith and Jailer Perla Flores are included with this complaint as supporting exhibits.
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-05-08_011148_TPIA-Request---Criminal-responses.pdf`](/docs/2026-05-08_011148_TPIA-Request---Criminal-responses.pdf) — 2026-05-08 — Requestor

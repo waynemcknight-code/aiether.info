@@ -48,3 +48,18 @@ Sincerely,
 CCSO produced its internal Records Request Processing Form for this request. The invoice for costs was transmitted the following day (May 12, 2026).
 
 - [`Bannert_Employment_Records_20260511.pdf`](/docs/Bannert_Employment_Records_20260511.pdf)
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-02-03_192023_Texas-Public-Information-Act-Request-Personnel-Records-Jail.pdf`](/docs/2026-02-03_192023_Texas-Public-Information-Act-Request-Personnel-Records-Jail.pdf) — 2026-02-03 — Requestor
+- [`2026-02-03_192057_Automatic-reply-Texas-Public-Information-Act-Request-Personn.pdf`](/docs/2026-02-03_192057_Automatic-reply-Texas-Public-Information-Act-Request-Personn.pdf) — 2026-02-03 — Colorado County
+- [`2026-02-03_194630_Fwd-Texas-Public-Information-Act-Request-Personnel-Records-J.pdf`](/docs/2026-02-03_194630_Fwd-Texas-Public-Information-Act-Request-Personnel-Records-J.pdf) — 2026-02-03 — Requestor
+- [`2026-02-11_222444_RE-Texas-Public-Information-Act-Request-Personnel-Records-Ja.pdf`](/docs/2026-02-11_222444_RE-Texas-Public-Information-Act-Request-Personnel-Records-Ja.pdf) — 2026-02-11 — Colorado County *[attaches: 02_03_2026 Invoice.pdf]*
+- [`2026-02-11_222927_Re-Texas-Public-Information-Act-Request-Personnel-Records-Ja.pdf`](/docs/2026-02-11_222927_Re-Texas-Public-Information-Act-Request-Personnel-Records-Ja.pdf) — 2026-02-11 — Requestor
+- [`2026-04-23_190417_TPIA-Request---Personnel-Records.pdf`](/docs/2026-04-23_190417_TPIA-Request---Personnel-Records.pdf) — 2026-04-23 — Requestor
+- [`2026-04-23_190657_RE-TPIA-Request---Personnel-Records.pdf`](/docs/2026-04-23_190657_RE-TPIA-Request---Personnel-Records.pdf) — 2026-04-23 — Colorado County
+- [`2026-05-02_160641_TPIA---Personnel-Records.pdf`](/docs/2026-05-02_160641_TPIA---Personnel-Records.pdf) — 2026-05-02 — Requestor

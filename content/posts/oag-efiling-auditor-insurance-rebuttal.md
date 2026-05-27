@@ -23,3 +23,12 @@ categories: ["Colorado County", "TPIA Records"]
 - [`20260422_JEM_AG_Auditor_15Day.pdf`](/docs/20260422_JEM_AG_Auditor_15Day.pdf)
 
 **Payment:** $7.50 — Trace Number 302OR70422010
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-04-23_190417_TPIA-Request---Personnel-Records.pdf`](/docs/2026-04-23_190417_TPIA-Request---Personnel-Records.pdf) — 2026-04-23 — Requestor
+- [`2026-04-23_190657_RE-TPIA-Request---Personnel-Records.pdf`](/docs/2026-04-23_190657_RE-TPIA-Request---Personnel-Records.pdf) — 2026-04-23 — Colorado County

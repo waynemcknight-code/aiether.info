@@ -25,3 +25,11 @@ Outside counsel for Colorado County transmitted a 10-day letter regarding the TP
 - [`20260408_JEM_Auditor_10Day.pdf`](/docs/20260408_JEM_Auditor_10Day.pdf)
 - [`20260408_JEM_AG_Auditor_10Day.pdf`](/docs/20260408_JEM_AG_Auditor_10Day.pdf)
 - [`20260408_JEM_TAC_ThirdParty.pdf`](/docs/20260408_JEM_TAC_ThirdParty.pdf)
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-04-08_215730_s-Public-Information-Act-request-to-the-Colorado-County-Audi.pdf`](/docs/2026-04-08_215730_s-Public-Information-Act-request-to-the-Colorado-County-Audi.pdf) — 2026-04-08 — Allison Bass & Magee *[attaches: 20260408 - JEM to H. McKnight re Auditor PIA 10 Day Letter.pdf, 20260408 - JEM to AG re H. McKnight Auditor PIA 10 Day Letter.pdf…]*

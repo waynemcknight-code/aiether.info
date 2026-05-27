@@ -73,3 +73,16 @@ Sincerely,
 ██████████████████
 ████████████████
 ████████████████████████████
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-01-21_190056_Public-Information-Request---Dispatch-Records-and-Call-Logs.pdf`](/docs/2026-01-21_190056_Public-Information-Request---Dispatch-Records-and-Call-Logs.pdf) — 2026-01-21 — Requestor
+- [`2026-01-21_202921_Re-Public-Information-Request---Dispatch-Records-and-Call-Lo.pdf`](/docs/2026-01-21_202921_Re-Public-Information-Request---Dispatch-Records-and-Call-Lo.pdf) — 2026-01-21 — Requestor
+- [`2026-01-21_222633_RE-Public-Information-Request---Dispatch-Records-and-Call-Lo.pdf`](/docs/2026-01-21_222633_RE-Public-Information-Request---Dispatch-Records-and-Call-Lo.pdf) — 2026-01-21 — Colorado County
+- [`2026-02-02_201115_Open-Records-Request-01212026-Dispatch.pdf`](/docs/2026-02-02_201115_Open-Records-Request-01212026-Dispatch.pdf) — 2026-02-02 — Colorado County *[attaches: 02.02.2026_Ltr_McKnight_Open Records Request - dispatch.pdf]*
+- [`2026-02-02_232722_Re-Open-Records-Request-01212026-Dispatch.pdf`](/docs/2026-02-02_232722_Re-Open-Records-Request-01212026-Dispatch.pdf) — 2026-02-02 — Requestor
+- [`2026-02-02_232905_Re-Open-Records-Request-01212026-Dispatch.pdf`](/docs/2026-02-02_232905_Re-Open-Records-Request-01212026-Dispatch.pdf) — 2026-02-02 — Requestor

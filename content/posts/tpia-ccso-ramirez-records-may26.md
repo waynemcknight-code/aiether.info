@@ -56,3 +56,12 @@ Pursuant to the Texas Public Information Act, Tex. Gov't Code Chapter 552, I res
 Sincerely,
 
 ██████████████████
+
+---
+
+## Correspondence
+
+*Primary email correspondence for this record.*
+
+- [`2026-05-26_235316_Texas-Public-Information-Act-Request-Records-Concerning-Form.pdf`](/docs/2026-05-26_235316_Texas-Public-Information-Act-Request-Records-Concerning-Form.pdf) — 2026-05-26 — Requestor
+- [`2026-05-26_235337_Automatic-reply-Texas-Public-Information-Act-Request-Records.pdf`](/docs/2026-05-26_235337_Automatic-reply-Texas-Public-Information-Act-Request-Records.pdf) — 2026-05-26 — Colorado County
