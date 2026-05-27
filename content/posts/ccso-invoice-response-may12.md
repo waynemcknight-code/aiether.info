@@ -35,4 +35,4 @@ The Colorado County Sheriff's Office transmitted an invoice for costs associated
 
 - [`2026-05-08_221014_Jail-Staff-Personnel-Records.pdf`](/docs/2026-05-08_221014_Jail-Staff-Personnel-Records.pdf) — 2026-05-08 — Requestor
 - [`2026-05-11_140242_RE-Jail-Staff-Personnel-Records.pdf`](/docs/2026-05-11_140242_RE-Jail-Staff-Personnel-Records.pdf) — 2026-05-11 — Colorado County
-- [`2026-05-12_190354_May-2-2026-Response.pdf`](/docs/2026-05-12_190354_May-2-2026-Response.pdf) — 2026-05-12 — Colorado County *[attaches: 05_02_2026 Response.pdf]*
+- [`2026-05-12_190354_May-2-2026-Response.pdf`](/docs/2026-05-12_190354_May-2-2026-Response.pdf) — 2026-05-12 — Colorado County *[attaches: [`05_02_2026_Response.pdf`](/docs/05_02_2026_Response.pdf)]*

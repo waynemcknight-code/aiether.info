@@ -20,7 +20,8 @@ A written notice was transmitted to Colorado County Judge Ty Prause documenting 
 
 **Cover email:**
 
-- [`2026-04-09_220000_Expired-deadline.pdf`](/docs/2026-04-09_220000_Expired-deadline.pdf) *(cover email — attachment pending OAuth re-auth)*
+- [`2026-04-09_220000_Expired-deadline.pdf`](/docs/2026-04-09_220000_Expired-deadline.pdf) *(cover email)*
+- [`Prause_Deadline_Expired_April9.pdf`](/docs/Prause_Deadline_Expired_April9.pdf) *(attachment)*
 
 ---
 
@@ -35,7 +36,8 @@ A direct letter was transmitted to Colorado County Auditor Michelle Lowrance reg
 
 **Cover email:**
 
-- [`2026-04-09_180000_Public-Records-Request-Pending-AG-Ruling.pdf`](/docs/2026-04-09_180000_Public-Records-Request-Pending-AG-Ruling.pdf) *(cover email — attachment pending OAuth re-auth)*
+- [`2026-04-09_180000_Public-Records-Request-Pending-AG-Ruling.pdf`](/docs/2026-04-09_180000_Public-Records-Request-Pending-AG-Ruling.pdf) *(cover email)*
+- [`Letter_to_Lowrance_Direct_April9.pdf`](/docs/Letter_to_Lowrance_Direct_April9.pdf) *(attachment)*
 
 ---
 
@@ -59,6 +61,6 @@ A rebuttal brief was transmitted to Allison, Bass & Magee LLP regarding the Audi
 
 *Primary email correspondence for this record.*
 
-- [`2026-04-09_130000_AG-Rebuttal-on-10-day-letter---Insurance-Documents.pdf`](/docs/2026-04-09_130000_AG-Rebuttal-on-10-day-letter---Insurance-Documents.pdf) — 2026-04-09 — Requestor *[attaches: Rebuttal_Brief_Auditor_Insurance_AG.pdf]*
-- [`2026-04-09_180000_Public-Records-Request-Pending-AG-Ruling.pdf`](/docs/2026-04-09_180000_Public-Records-Request-Pending-AG-Ruling.pdf) — 2026-04-09 — Requestor *[attaches: Letter_to_Lowrance_Direct_April9.pdf]*
-- [`2026-04-09_220000_Expired-deadline.pdf`](/docs/2026-04-09_220000_Expired-deadline.pdf) — 2026-04-09 — Requestor *[attaches: Prause_Deadline_Expired_April9.pdf]*
+- [`2026-04-09_130000_AG-Rebuttal-on-10-day-letter---Insurance-Documents.pdf`](/docs/2026-04-09_130000_AG-Rebuttal-on-10-day-letter---Insurance-Documents.pdf) — 2026-04-09 — Requestor *[attaches: [`Rebuttal_Brief_Auditor_Insurance_AG.pdf`](/docs/Rebuttal_Brief_Auditor_Insurance_AG.pdf)]*
+- [`2026-04-09_180000_Public-Records-Request-Pending-AG-Ruling.pdf`](/docs/2026-04-09_180000_Public-Records-Request-Pending-AG-Ruling.pdf) — 2026-04-09 — Requestor *[attaches: [`Letter_to_Lowrance_Direct_April9.pdf`](/docs/Letter_to_Lowrance_Direct_April9.pdf)]*
+- [`2026-04-09_220000_Expired-deadline.pdf`](/docs/2026-04-09_220000_Expired-deadline.pdf) — 2026-04-09 — Requestor *[attaches: [`Prause_Deadline_Expired_April9.pdf`](/docs/Prause_Deadline_Expired_April9.pdf)]*

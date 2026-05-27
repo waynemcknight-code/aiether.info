@@ -28,5 +28,5 @@ The request sought Colorado County's liability insurance policy information, inc
 
 *Primary email correspondence for this record.*
 
-- [`2026-04-03_024248_Demand-Letter-for-Insurance.pdf`](/docs/2026-04-03_024248_Demand-Letter-for-Insurance.pdf) — 2026-04-03 — Requestor *[attaches: Exhibit A(1).pdf, DEMAND_Insurance_552.302_April2.docx.pdf…]*
-- [`2026-04-03_024738_Fwd-Demand-Letter-for-Insurance.pdf`](/docs/2026-04-03_024738_Fwd-Demand-Letter-for-Insurance.pdf) — 2026-04-03 — Requestor *[attaches: Exhibit A(1).pdf, DEMAND_Insurance_552.302_April2.docx.pdf…]*
+- [`2026-04-03_024248_Demand-Letter-for-Insurance.pdf`](/docs/2026-04-03_024248_Demand-Letter-for-Insurance.pdf) — 2026-04-03 — Requestor *[attaches: [`DEMAND_Insurance_552.302_April2.docx.pdf`](/docs/DEMAND_Insurance_552.302_April2.docx.pdf), [`Exhibit_A.pdf`](/docs/Exhibit_A.pdf), [`Exhibit_A_1_.pdf`](/docs/Exhibit_A_1_.pdf)]*
+- [`2026-04-03_024738_Fwd-Demand-Letter-for-Insurance.pdf`](/docs/2026-04-03_024738_Fwd-Demand-Letter-for-Insurance.pdf) — 2026-04-03 — Requestor *[attaches: [`DEMAND_Insurance_552.302_April2.docx.pdf`](/docs/DEMAND_Insurance_552.302_April2.docx.pdf), [`Exhibit_A.pdf`](/docs/Exhibit_A.pdf), [`Exhibit_A_1_.pdf`](/docs/Exhibit_A_1_.pdf)]*
