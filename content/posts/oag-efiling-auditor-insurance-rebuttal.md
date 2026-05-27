@@ -18,7 +18,7 @@ categories: ["Colorado County", "TPIA Records"]
 **Files uploaded:**
 
 - [`AG_Rebuttal_Brief_v2.docx.pdf`](/docs/AG_Rebuttal_Brief_v2.docx.pdf)
-- [`Letter to Requestor - Colorado County Request.pdf`](/docs/Letter%20to%20Requestor%20-%20Colorado%20County%20Request.pdf)
+- [`Letter to Requestor - Colorado County Request.pdf`](/docs/Letter_to_Requestor_Colorado_County_Request.pdf)
 - [`20260422_Packet_Auditor_15Day.pdf`](/docs/20260422_Packet_Auditor_15Day.pdf)
 - [`20260422_JEM_AG_Auditor_15Day.pdf`](/docs/20260422_JEM_AG_Auditor_15Day.pdf)
 

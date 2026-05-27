@@ -28,3 +28,18 @@ A Texas Public Information Act request was submitted to Matagorda County for emp
 5. Any records related to Faith Marie Bannert's departure, termination, resignation, or non-renewal.
 
 **Fee waiver requested** pursuant to Texas Government Code §552.267.
+
+---
+
+## Response — May 26, 2026
+
+*Received via email from Jenna Fortenberry, Public Information Officer, Matagorda County, May 26, 2026.*
+
+**FROM:** Jenna Fortenberry — mcpir@co.matagorda.tx.us
+**DATE:** May 26, 2026
+
+Fortenberry transmitted a partial production along with an internal forwarded email chain showing how the records were gathered. The Sheriff's Office confirmed Bannert's employment dates of December 6, 2023 through March 19, 2024. The internal chain indicated no disciplinary, misconduct, use-of-force, or internal investigation records were located. Fortenberry noted the Human Resources department had not yet responded and that a supplemental production is anticipated.
+
+**Documents produced:**
+
+- [`2026-05-26_144651_Fwd-Re-Fwd-Re-Fwd-Re-Failure-to-Respond-Public-Information-A.pdf`](/docs/2026-05-26_144651_Fwd-Re-Fwd-Re-Fwd-Re-Failure-to-Respond-Public-Information-A.pdf) *(forwarding email chain containing production — Bannert employment records attachment pending Gmail OAuth re-auth for direct download)*

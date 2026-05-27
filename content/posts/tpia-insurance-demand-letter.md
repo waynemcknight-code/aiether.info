@@ -19,11 +19,11 @@ categories: ["Colorado County", "TPIA Records"]
 
 A formal demand letter was transmitted to Colorado County Judge Ty Prause and outside counsel at Allison, Bass & Magee LLP regarding the production of liability insurance coverage records responsive to outstanding TPIA requests.
 
-**Attachments:**
+**Cover email:**
 
-- `DEMAND_Insurance_552.302_April2.docx.pdf` *(pending upload)*
-- `Exhibit A.pdf` *(pending upload)*
-- `Exhibit A(1).pdf` *(pending upload)*
+- [`2026-04-03_024248_Demand-Letter-for-Insurance.pdf`](/docs/2026-04-03_024248_Demand-Letter-for-Insurance.pdf)
+
+*Attachments (DEMAND_Insurance_552.302_April2.docx.pdf, Exhibit A.pdf, Exhibit A(1).pdf) — pending Gmail OAuth re-auth for download.*
 
 ---
 

@@ -20,9 +20,9 @@ Colorado County Legal Secretary Angela Ford transmitted a response to an outstan
 
 **Attachments received:**
 
-- [`04.09.2026_Ltr_AG Opinion.pdf`](/docs/04.09.2026_Ltr_AG%20Opinion.pdf) (two copies)
-- [`04.10.2026_Ltr_AG Opinion.pdf`](/docs/04.10.2026_Ltr_AG%20Opinion.pdf)
-- [`Basic Report 20260038.pdf`](/docs/Basic%20Report%2020260038.pdf)
+- [`04.09.2026_Ltr_AG Opinion.pdf`](/docs/04.09.2026_Ltr_AG_Opinion.pdf) (two copies)
+- [`04.10.2026_Ltr_AG Opinion.pdf`](/docs/04.10.2026_Ltr_AG_Opinion.pdf)
+- [`Basic Report 20260038.pdf`](/docs/Basic_Report_20260038.pdf)
 
 ---
 
