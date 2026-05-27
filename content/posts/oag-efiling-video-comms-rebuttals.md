@@ -21,7 +21,6 @@ categories: ["Colorado County", "TPIA Records"]
 - [`20260323_JEM_VideoAudio_10Day.pdf`](/docs/20260323_JEM_VideoAudio_10Day.pdf)
 - [`20260323_JEM_AG_VideoAudio_10Day.pdf`](/docs/20260323_JEM_AG_VideoAudio_10Day.pdf)
 - [`TPIA_Request_Jail_Video.pdf`](/docs/TPIA_Request_Jail_Video.pdf)
-- [`HIPAA_Release_Redacted.pdf`](/docs/HIPAA_Release_Redacted.pdf)
 - [`20260330_Packet_VideoAudio_15Day.pdf`](/docs/20260330_Packet_VideoAudio_15Day.pdf)
 - [`AG_Rebuttal_Brief_v2.docx.pdf`](/docs/AG_Rebuttal_Brief_v2.docx.pdf)
 
