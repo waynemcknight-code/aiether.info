@@ -14,6 +14,6 @@
   weight = 25
 
 [[main]]
-  name = "All TPIAs"
+  name = "All TPIA Records"
   url = "/categories/tpia-records/"
   weight = 30
