@@ -2,7 +2,7 @@
 title: "Before Colorado County Asks for More Money, Explain the $2.2 Million Already Spent"
 date: 2026-05-12
 draft: false
-categories: ["Colorado County"]
+categories: ["Colorado County", "Letters to the Editor"]
 ---
 
 *Published as a letter to the editor in the Colorado County Citizen, May 12, 2026.*

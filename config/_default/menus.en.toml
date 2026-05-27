@@ -1,6 +1,6 @@
 [[main]]
   name = "Articles"
-  pageRef = "posts"
+  url = "/categories/letters-to-the-editor/"
   weight = 10
 
 [[main]]
