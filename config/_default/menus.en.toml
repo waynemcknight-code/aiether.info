@@ -4,6 +4,11 @@
   weight = 10
 
 [[main]]
+  name = "Corruption Watch"
+  url = "/corruption-watch/"
+  weight = 15
+
+[[main]]
   name = "Colorado County"
   url = "/categories/colorado-county/"
   weight = 20
