@@ -1,0 +1,13 @@
+---
+title: "Dana Wright I think it may have been WAN and weather related ."
+date: 2026-05-28T00:18:33Z
+draft: false
+externalUrl: "https://www.facebook.com/permalink.php?story_fbid=pfbid02c2KMs3GC92xo8u4BGBBzWT6um8a3YRUMdLmfpTF5M4VBZ67t9Lwy7CZsccGZefVAl&id=61571888697510&comment_id=1008044855241577&reply_comment_id=818535484272562&__cft__[0]=AZaUzB1y7GdUP-VolvSX3cDKRJi6ISg0g-8WLnrEdPLD2LP04hkpeEs5n0Kptj6tx5pFUebjLA8Sb75zqYFUjwv_cCYc3FfRBDyOu_NkRB5NpcGwSt95O0wXac7eQB267ZXJIMK5wKWOI12-z68Ci-RC0Gry-Oe7PfrL285-G4gpaUW6_6bMQNGT_jSqMfZA_rg&__tn__=R-R"
+categories: ["Corruption Watch"]
+---
+
+Dana Wright I think it may have been WAN and weather related .
+
+---
+
+*Originally posted on [Corruption Watch — Texas](https://www.facebook.com/people/Corruption-Watch-Texas/61571888697510/). [View original post](https://www.facebook.com/permalink.php?story_fbid=pfbid02c2KMs3GC92xo8u4BGBBzWT6um8a3YRUMdLmfpTF5M4VBZ67t9Lwy7CZsccGZefVAl&id=61571888697510&comment_id=1008044855241577&reply_comment_id=818535484272562&__cft__[0]=AZaUzB1y7GdUP-VolvSX3cDKRJi6ISg0g-8WLnrEdPLD2LP04hkpeEs5n0Kptj6tx5pFUebjLA8Sb75zqYFUjwv_cCYc3FfRBDyOu_NkRB5NpcGwSt95O0wXac7eQB267ZXJIMK5wKWOI12-z68Ci-RC0Gry-Oe7PfrL285-G4gpaUW6_6bMQNGT_jSqMfZA_rg&__tn__=R-R).*
