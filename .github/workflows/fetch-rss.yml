@@ -34,9 +34,11 @@ jobs:
       - name: Check for new posts
         id: changes
         run: |
-          git diff --quiet HEAD -- content/corruption-watch/ \
-            && echo "changed=false" >> $GITHUB_OUTPUT \
-            || echo "changed=true" >> $GITHUB_OUTPUT
+          if [ -n "$(git status --porcelain content/corruption-watch/)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: Setup Hugo
         if: steps.changes.outputs.changed == 'true'
