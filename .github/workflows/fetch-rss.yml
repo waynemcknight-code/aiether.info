@@ -1,0 +1,78 @@
+name: Fetch Corruption Watch RSS
+
+on:
+  schedule:
+    - cron: '0 6,18 * * *'   # 6 AM and 6 PM UTC (1 AM / 1 PM CDT)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch RSS posts
+        run: python3 mcknight-case/fetch_corruption_watch.py
+        env:
+          CONTENT_DIR: content/corruption-watch
+
+      - name: Check for new posts
+        id: changes
+        run: |
+          git diff --quiet HEAD -- content/corruption-watch/ \
+            && echo "changed=false" >> $GITHUB_OUTPUT \
+            || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Setup Hugo
+        if: steps.changes.outputs.changed == 'true'
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        if: steps.changes.outputs.changed == 'true'
+        run: hugo --minify
+
+      - name: Commit new posts
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/corruption-watch/
+          git commit -m "Auto: Corruption Watch RSS update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Upload artifact
+        if: steps.changes.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    needs: fetch-and-publish
+    if: needs.fetch-and-publish.result == 'success'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
