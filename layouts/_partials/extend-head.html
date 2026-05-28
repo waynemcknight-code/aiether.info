@@ -292,14 +292,14 @@ article h1 {
 /* ── Pull quote style for blockquotes ── */
 article blockquote {
   border-left: 4px solid var(--ae-red) !important;
-  background: #111 !important;
+  background: rgba(204,34,0,0.05) !important;
   padding: 20px 24px !important;
   border-radius: 0 3px 3px 0 !important;
 }
 article blockquote p {
-  color: #eee !important;
-  font-style: normal !important;
-  font-size: 1.1em !important;
+  color: #333 !important;
+  font-style: italic !important;
+  font-size: 1.05em !important;
 }
 
 /* ── Category/tag pills more vivid ── */
@@ -314,8 +314,9 @@ article blockquote p {
 footer, .footer, [class*="footer"] {
   background-color: #111 !important;
   border-top: 2px solid var(--ae-red) !important;
-  color: #555 !important;
+  color: #aaa !important;
 }
-footer a, .footer a { color: #666 !important; }
+footer *, .footer * { color: #aaa !important; }
+footer a, .footer a { color: #aaa !important; }
 footer a:hover, .footer a:hover { color: var(--ae-red) !important; }
 </style>
