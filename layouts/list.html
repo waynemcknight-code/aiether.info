@@ -1,0 +1,170 @@
+{{ define "main" }}
+<style>
+.ae-list-hero {
+  background: linear-gradient(135deg, #111 0%, #1a0a08 100%);
+  padding: 60px 10vw 50px;
+  position: relative;
+  overflow: hidden;
+  border-bottom: 3px solid #cc2200;
+}
+.ae-list-hero::before {
+  content: '';
+  position: absolute; inset: 0;
+  background-image: linear-gradient(rgba(204,34,0,0.07) 1px, transparent 1px), linear-gradient(90deg, rgba(204,34,0,0.07) 1px, transparent 1px);
+  background-size: 48px 48px;
+  pointer-events: none;
+}
+.ae-list-hero-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.62rem;
+  color: #cc2200;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.ae-list-hero-label::before { content: '// '; opacity: 0.5; }
+.ae-list-hero h1 {
+  font-family: 'Bebas Neue', Impact, sans-serif !important;
+  font-size: clamp(3rem, 8vw, 6rem) !important;
+  color: #f7f5f0 !important;
+  letter-spacing: 0.08em;
+  line-height: 0.9;
+  margin: 0 0 16px !important;
+}
+.ae-list-hero-count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.68rem;
+  color: #666;
+  letter-spacing: 0.14em;
+}
+.ae-list-hero-count span { color: #cc2200; }
+
+.ae-list-body { padding: 48px 10vw; }
+
+.ae-card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 18px; }
+
+.ae-post-card {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 3px;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-decoration: none;
+  transition: all 0.18s ease;
+  position: relative;
+  overflow: hidden;
+}
+.ae-post-card::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, #cc2200, transparent);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.22s ease;
+}
+.ae-post-card:hover { box-shadow: 0 6px 24px rgba(0,0,0,0.1); transform: translateY(-3px); border-color: rgba(204,34,0,0.2); }
+.ae-post-card:hover::after { transform: scaleX(1); }
+.ae-post-card-section { font-family:'JetBrains Mono',monospace; font-size:0.58rem; color:#cc2200; letter-spacing:0.16em; text-transform:uppercase; }
+.ae-post-card-title { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:1.1rem; color:#111; line-height:1.3; }
+.ae-post-card-excerpt { font-family:'Barlow Condensed',sans-serif; font-size:0.9rem; color:#777; line-height:1.5; flex:1; }
+.ae-post-card-date { font-family:'JetBrains Mono',monospace; font-size:0.58rem; color:#ccc; letter-spacing:0.1em; margin-top:auto; padding-top:10px; border-top:1px solid rgba(0,0,0,0.06); }
+
+/* Featured first post */
+.ae-featured {
+  background: #111;
+  border-radius: 3px;
+  padding: 36px;
+  margin-bottom: 32px;
+  text-decoration: none;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.2s ease;
+  border-left: 4px solid #cc2200;
+}
+.ae-featured::before {
+  content: 'LATEST';
+  position: absolute;
+  top: 20px; right: 20px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.55rem;
+  color: #cc2200;
+  letter-spacing: 0.2em;
+  background: rgba(204,34,0,0.1);
+  padding: 4px 10px;
+  border: 1px solid rgba(204,34,0,0.3);
+  border-radius: 2px;
+}
+.ae-featured:hover { background: #1a0a08; transform: translateY(-2px); box-shadow: 0 8px 32px rgba(0,0,0,0.3); }
+.ae-featured-label { font-family:'JetBrains Mono',monospace; font-size:0.6rem; color:#cc2200; letter-spacing:0.2em; text-transform:uppercase; margin-bottom:12px; }
+.ae-featured-title { font-family:'Bebas Neue',sans-serif; font-size:clamp(1.8rem,4vw,3rem); color:#f7f5f0; letter-spacing:0.06em; line-height:1.05; margin-bottom:14px; }
+.ae-featured-excerpt { font-family:'Barlow Condensed',sans-serif; font-size:1rem; color:#888; line-height:1.6; max-width:600px; margin-bottom:20px; }
+.ae-featured-date { font-family:'JetBrains Mono',monospace; font-size:0.6rem; color:#555; letter-spacing:0.12em; }
+
+.ae-pagination { margin-top: 40px; display:flex; gap:10px; justify-content:center; }
+.ae-pagination a, .ae-pagination span {
+  font-family:'JetBrains Mono',monospace; font-size:0.65rem; letter-spacing:0.1em;
+  padding:8px 16px; border:1px solid rgba(0,0,0,0.12); border-radius:2px;
+  text-decoration:none; color:#555; transition:all 0.15s;
+}
+.ae-pagination a:hover { border-color:#cc2200; color:#cc2200; }
+.ae-pagination .active { background:#cc2200; color:#fff; border-color:#cc2200; }
+</style>
+
+<div class="ae-list-hero">
+  <div class="ae-list-hero-label">{{ .Section | humanize | default "Archive" }}</div>
+  <h1>{{ .Title }}</h1>
+  {{ with .Data.Pages }}
+  <div class="ae-list-hero-count"><span>{{ len . }}</span> records on file</div>
+  {{ end }}
+</div>
+
+<div class="ae-list-body">
+  {{ with .Content }}
+  <div class="prose mb-10" style="font-family:'Barlow Condensed',sans-serif;color:#555;">{{ . | emojify }}</div>
+  {{ end }}
+
+  {{ if .Data.Pages }}
+    {{ $pages := (.Paginate .Pages).Pages }}
+    {{ $first := index $pages 0 }}
+
+    {{ if and $first (eq (.Paginator.PageNumber) 1) }}
+    <a href="{{ $first.RelPermalink }}" class="ae-featured">
+      {{ with $first.Params.categories }}<div class="ae-featured-label">{{ index . 0 }}</div>{{ end }}
+      <div class="ae-featured-title">{{ $first.Title }}</div>
+      {{ with $first.Summary }}<div class="ae-featured-excerpt">{{ . | plainify | truncate 180 }}</div>{{ end }}
+      <div class="ae-featured-date">{{ $first.Date.Format "January 02, 2006" }}</div>
+    </a>
+    {{ end }}
+
+    <div class="ae-card-grid">
+      {{ range (cond (eq (.Paginator.PageNumber) 1) (after 1 $pages) $pages) }}
+      <a href="{{ .RelPermalink }}" class="ae-post-card">
+        {{ with .Params.categories }}<div class="ae-post-card-section">{{ index . 0 }}</div>{{ end }}
+        <div class="ae-post-card-title">{{ .Title }}</div>
+        {{ with .Summary }}<div class="ae-post-card-excerpt">{{ . | plainify | truncate 120 }}</div>{{ end }}
+        <div class="ae-post-card-date">{{ .Date.Format "Jan 02, 2006" }}</div>
+      </a>
+      {{ end }}
+    </div>
+
+    {{ with .Paginator }}
+    {{ if gt .TotalPages 1 }}
+    <div class="ae-pagination">
+      {{ if .HasPrev }}<a href="{{ .Prev.URL }}">← Prev</a>{{ end }}
+      {{ range .Pagers }}
+        {{ if eq . $.Paginator }}<span class="active">{{ .PageNumber }}</span>
+        {{ else }}<a href="{{ .URL }}">{{ .PageNumber }}</a>{{ end }}
+      {{ end }}
+      {{ if .HasNext }}<a href="{{ .Next.URL }}">Next →</a>{{ end }}
+    </div>
+    {{ end }}
+    {{ end }}
+
+  {{ end }}
+</div>
+{{ end }}
