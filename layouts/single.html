@@ -1,0 +1,160 @@
+{{ define "main" }}
+<style>
+.ae-single {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 48px 5vw 80px;
+}
+.ae-single-section {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.6rem;
+  color: #cc2200;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  margin-bottom: 14px;
+}
+.ae-single-section a { color: #cc2200; text-decoration: none; }
+.ae-single-section a:hover { text-decoration: underline; }
+.ae-single h1 {
+  font-family: 'Bebas Neue', Impact, sans-serif !important;
+  font-size: clamp(2.2rem, 5vw, 4rem) !important;
+  line-height: 1 !important;
+  letter-spacing: 0.04em !important;
+  color: #111 !important;
+  border-bottom: 3px solid #cc2200 !important;
+  padding-bottom: 16px !important;
+  margin-bottom: 20px !important;
+}
+.ae-single-meta {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.62rem;
+  color: #6b6b6b;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin-bottom: 36px;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.ae-single-content {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #1a1a1a;
+}
+.ae-single-content h2, .ae-single-content h3, .ae-single-content h4 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #111;
+  margin-top: 2em;
+}
+.ae-single-content p { margin-bottom: 1.2em; }
+.ae-single-content a { color: #cc2200; }
+.ae-single-content a:hover { text-decoration: underline; }
+.ae-single-content blockquote {
+  border-left: 4px solid #cc2200;
+  background: #f8f7f5;
+  padding: 18px 24px;
+  margin: 1.5em 0;
+  border-radius: 0 3px 3px 0;
+  font-style: italic;
+  color: #333;
+}
+.ae-single-content img {
+  max-width: 100%;
+  border-radius: 3px;
+  margin: 1em 0;
+}
+.ae-single-content code, .ae-single-content pre {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.88em;
+  background: #f8f7f5;
+  border: 1px solid #e5e3df;
+  color: #111;
+  border-radius: 2px;
+}
+.ae-single-content pre { padding: 16px; overflow-x: auto; }
+.ae-single-content code { padding: 2px 5px; }
+.ae-external-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #fff;
+  background: #cc2200;
+  border: none;
+  border-radius: 2px;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+.ae-external-link:hover { background: #aa1a00; }
+.ae-single-footer {
+  margin-top: 48px;
+  padding-top: 24px;
+  border-top: 1px solid #e5e3df;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.ae-single-footer a {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.62rem;
+  letter-spacing: 0.1em;
+  color: #6b6b6b;
+  text-decoration: none;
+  border: 1px solid #e5e3df;
+  border-radius: 2px;
+  padding: 6px 14px;
+  transition: all 0.15s;
+}
+.ae-single-footer a:hover { color: #cc2200; border-color: #cc2200; }
+</style>
+
+<div class="ae-single">
+  {{ with .Params.categories }}
+  <div class="ae-single-section">
+    <a href="/{{ index . 0 | urlize }}/">{{ index . 0 }}</a>
+  </div>
+  {{ else }}
+  {{ with .Section }}
+  <div class="ae-single-section">
+    <a href="/{{ . }}/">{{ . | humanize }}</a>
+  </div>
+  {{ end }}
+  {{ end }}
+
+  <h1>{{ .Title | emojify }}</h1>
+
+  <div class="ae-single-meta">
+    <span>{{ .Date.Format "January 02, 2006" }}</span>
+    {{ with .ReadingTime }}<span>{{ . }} min read</span>{{ end }}
+  </div>
+
+  {{ with .Params.externalUrl }}
+  <div style="margin-bottom:32px;">
+    <a href="{{ . }}" target="_blank" rel="noopener" class="ae-external-link">
+      ↗ View Original Post
+    </a>
+  </div>
+  {{ end }}
+
+  <div class="ae-single-content">
+    {{ .Content | emojify }}
+  </div>
+
+  <div class="ae-single-footer">
+    {{ with .PrevInSection }}<a href="{{ .RelPermalink }}">← {{ .Title | truncate 40 }}</a>{{ end }}
+    {{ with .NextInSection }}<a href="{{ .RelPermalink }}">{{ .Title | truncate 40 }} →</a>{{ end }}
+  </div>
+</div>
+{{ end }}
