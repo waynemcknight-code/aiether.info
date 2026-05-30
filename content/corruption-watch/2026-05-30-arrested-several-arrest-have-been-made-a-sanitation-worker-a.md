@@ -1,0 +1,13 @@
+---
+title: "🚨 ARRESTED‼️ ‼️Several arrest have been made!‼️ ⭐️ A sanitation worker... 🌳 A logger 🛻 A truck driver 🏠 A roofer 🐟..."
+date: 2026-05-30T17:28:06Z
+draft: false
+externalUrl: "https://m.facebook.com/permalink.php?id=61571888697510&story_fbid=pfbid0j7H4ZqngP7nifNNpnT2HjPXieexdFJckiQyzG6jXagveaV6Frmp5sfawcx6FSpWgl"
+categories: ["Corruption Watch"]
+---
+
+🚨 ARRESTED‼️ ‼️Several arrest have been made!‼️ ⭐️ A sanitation worker 🌳 A logger 🛻 A truck driver 🏠 A roofer 🐟 A commercial fisherman & 👮 A Police Officer Let’s say these mugshots were all posted by the local SO For 5 of these arrestees, MOST of the responses would be identical (“good jawb sheriffff! Thank ewe fer keeping us safe…”) with NO NEED FOR DETAILS. And let’s be honest, they’d attack anyone who asked for more details - ask me how I know. For ONE, they’d be “just one mistake… stressful job… another chance… blah blah blah” and of course “we need the rest of the story…” Can you guess which one? NOW here’s where it gets interesting. I made these mugshots of these very specific occupations. (We won’t mention how “occupation” only matters for one group) Why? Because EVERY ONE of the “non sacred” arrestee’s jobs have THREE things in common. ‼️#1 THEIR jobs are CONSIDERABLY more dangerous than the other one (and doesn’t “danger” = “stress”?) (also, if you remove self harm from the equation the “danger” for the one job goes WAY down - we’re talking like #25 “most dangerous” look it up) ‼️#2 YOU would suffer greatly if any of THOSE 5 professions just disappeared. They grow your food, deliver your food, harvest the material to build your house, cover that house you eat that food in, and haul away the trash you make eating that food! But no one acts like the World would end without them. No one worships them. They don’t get “discounts”, just for their job. They don’t get their asses kissed when they *do their actual job… etc. ‼️#3 THEY can’t destroy your life with the strike of a pen and they didn’t take an OATH!‼️ But, when *they get arrested, they are treated differently. In fact they are just plain treated differently. They don’t get lunch brought to them. Their crimes aren’t rationalized or justified by sheep. Does that make sense? This is “cop hatred” it’s the grown up view of a dire situation. We have to start having an honest, adult conversation about these things. Right? #corruption #watch #texas #accountability
+
+---
+
+*Originally posted on [Corruption Watch — Texas](https://www.facebook.com/people/Corruption-Watch-Texas/61571888697510/). [View original post](https://m.facebook.com/permalink.php?id=61571888697510&story_fbid=pfbid0j7H4ZqngP7nifNNpnT2HjPXieexdFJckiQyzG6jXagveaV6Frmp5sfawcx6FSpWgl).*
