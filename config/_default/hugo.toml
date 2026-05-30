@@ -1,6 +1,6 @@
 baseURL = 'https://aiether.info/'
 locale = 'en'
-title = 'Aiether'
+title = 'Aiether — Texas Government Accountability'
 theme = 'congo'
 defaultContentLanguage = 'en'
 enableRobotsTXT = true
