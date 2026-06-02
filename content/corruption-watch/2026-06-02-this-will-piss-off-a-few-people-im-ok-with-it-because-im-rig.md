@@ -1,0 +1,13 @@
+---
+title: "‼️This will piss off a few people‼️ 🤷I’m OK with it because I’m right.  ⭐️ So, a few days ago, I made a post recognizin..."
+date: 2026-06-02T14:42:59Z
+draft: false
+externalUrl: "https://m.facebook.com/permalink.php?id=61571888697510&story_fbid=pfbid0QaKmMvVRoTCFfMJYH9ytBkPyGDcgKwRaoafrpBegD41bdJLuJkGBJ83nZfrPo2cql"
+categories: ["Corruption Watch"]
+---
+
+‼️This will piss off a few people‼️ 🤷I’m OK with it because I’m right. ⭐️ So, a few days ago, I made a post recognizing some Law Enforcement Officers for doing their job… I did that (didn’t mind doing it) to see how many “thank you for posting the positive side…” type comments I’d get. There were a few. I found this VERY interesting. Here is why. I have NEVER, in nearly 52 years had a Police Officer thank me for obeying the law. Not ONE Sunday morning did I wake up to being thanked for not driving drunk the night before… NEVER have I been thanked for not ☠️ ing anyone… Why not? 🤔 I mean, I know I’m *supposed to not drive drunk and ☠️ people… DUH! (And before anyone comes at me with “stressful job”, this one isn’t a picnic in the “stress” department.) Maybe my job would be less stressful if I thanked ONE certain profession just for doing their jobs… Now, to all the people who “thanked” me… I was happy to do it… ⁉️BUT! I have a question. And it is valid. WHEN IS THE LAST TIME YOU THANKED YOUR SANITATION WORKERS❓ I mean, arguably not having your trash picked up for 3 months might become a REAL health hazard… When is the last time you “thanked” your city municipal workers??? I mean, I would think being knee deep in shit (not all of it guaranteed to be *yours) would be “dangerous”. 🦺 Those guys “protect” you from *that every day. Don’t believe me? Imagine life without them for 6 months. But the question is NOT just for the public. When is the last time YOUR Police Department “thanked” those people whose jobs REALLY protect you AND THEM? 🤷Honestly, if your Public Information Officer has time to publish advertising for a tow truck company (which turns out, is owned by a Councilman’s brother) who brought her food to stuff her face, (which when viewed through the lens of TX Penal Code Section 39, *could be problematic) isn’t there time to “thank” the people who pick up trash from the PD or the people who make sure THEY aren’t knee deep in 💩? 🙏I’m all for “thanking” people. 🤔I’m just curious why it has to be just one profession and it’s for just doing their job. ⁉️SPEAKS VOLUMES, NO⁉️
+
+---
+
+*Originally posted on [Corruption Watch — Texas](https://www.facebook.com/people/Corruption-Watch-Texas/61571888697510/). [View original post](https://m.facebook.com/permalink.php?id=61571888697510&story_fbid=pfbid0QaKmMvVRoTCFfMJYH9ytBkPyGDcgKwRaoafrpBegD41bdJLuJkGBJ83nZfrPo2cql).*
