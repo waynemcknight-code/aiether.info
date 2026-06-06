@@ -25,3 +25,6 @@ footer.showScrollToTop = true
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
+
+[verification]
+  google = "-Ue2UBRLlD4SqVo2UPTsO7n5JhwC00nwNsBgWv456hk"
