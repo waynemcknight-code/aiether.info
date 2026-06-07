@@ -98,12 +98,35 @@ The case is currently active. It was filed six weeks before publication of this 
 
 ---
 
+## 2025 — *Black v. Lee et al.* — Brady Violation, False Probable Cause, DA Named Personally
+
+**Case No. 4:25-cv-04002, S.D. Tex., filed September 4, 2025**
+
+On August 26, 2023, Steven Arthur Black was pumping gas at a Loves station in Colorado County, Texas. Officer Dalton Lee approached him and began asking questions. Lee never stated Black was detained and never told him he was not free to leave. Despite the absence of lawful detention, Lt. Joshua Jones of the Fayette County Sheriff's Office prepared and filed a **false probable cause affidavit** to justify the arrest. The case was prosecuted in Colorado County.
+
+Black, now incarcerated at the Terrell Unit (TDCJ #02557790), filed a pro se prisoner civil rights complaint naming six defendants — including **Colorado County** and **District Attorney Jay Johannes** personally.
+
+**Against Colorado County:** "Maintained policies, customs & practices of inadequate hiring, training, and supervision that allowed these constitutional violations to occur."
+
+**Against DA Jay Johannes personally:**
+- Pushed the case forward in a non-advocacy role despite no probable cause
+- **Failed to disclose Lee's prior misconduct investigation — a Brady violation**
+- Prosecuted the case despite knowing probable cause was lacking
+- Conduct contributed to an unfair trial and due process violations
+
+Additionally, Officer Lee allegedly fabricated a report to the Parole Board claiming Black was shooting at officers — a charge Black was never prosecuted for. The fabricated report was submitted to affect Black's parole status.
+
+This is the first case in this documented series in which **Jay Johannes is named as a defendant in his personal capacity** for conduct directly related to his prosecutorial role in Colorado County.
+
+---
+
 ## The Pattern
 
 - **2014:** CCSO deputy participates in high-speed pursuit ending in passenger shot 13 times; plaintiff pregnant, loses one twin
 - **2016:** Federal §1983 + Monell suit filed against CCSO — excessive force and failure to supervise, screen, discipline, and control officers
 - **2018:** Federal §1983 suit filed against CCSO jail supervisors — deliberate medical indifference; intercom disabled, nurse refuses to enter cell, inmate told to "shut the hell up." One named supervisor remains employed today.
 - **2024:** Rust cited as active TCJS compliance deficiency — three years after $2.2M in federal compliance funds received
+- **2025 (September):** Federal §1983 suit filed — DA Jay Johannes named personally for Brady violation and prosecuting without probable cause; Colorado County named for inadequate hiring, training, and supervision
 - **2026 (April):** Federal §1983 + Monell suit filed against Sheriff Lindemann personally and CCSO — unlawful dispossession and enforcement of void orders
 - **2026 (April):** County seeks additional public funds for a new justice center without accounting for prior federal funds
 
@@ -113,4 +136,4 @@ These are not isolated failures. They are a pattern. And patterns have legal sig
 
 ---
 
-*Sources: CourtListener/RECAP, U.S. District Court S.D. Texas (Case Nos. 4:16-cv-03708, 4:18-cv-01246, 4:26-cv-03289), 25th District Court Colorado County (Cause No. 24591), Texas Commission on Jail Standards, Colorado County Citizen, public statements by Sheriff Justin Lindemann.*
+*Sources: CourtListener/RECAP, U.S. District Court S.D. Texas (Case Nos. 4:16-cv-03708, 4:18-cv-01246, 4:25-cv-04002, 4:26-cv-03289), 25th District Court Colorado County (Cause No. 24591), Texas Commission on Jail Standards, Colorado County Citizen, public statements by Sheriff Justin Lindemann.*
