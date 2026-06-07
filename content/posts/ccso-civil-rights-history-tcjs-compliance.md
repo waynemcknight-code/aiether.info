@@ -82,19 +82,35 @@ Three years into the grant period, the Sheriff cited rust as an active complianc
 
 ---
 
+## 2026 — *Johnson v. Lakeview Loan Servicing et al.* — Monell Liability, Unlawful Dispossession
+
+**Case No. 4:26-cv-03289, S.D. Tex., filed April 23, 2026**
+
+Raymond Johnson, a pro se plaintiff and homeowner at 1027 FM 155, Weimar, Texas (Colorado County), filed a verified complaint alleging wrongful foreclosure and constitutional violations in connection with the foreclosure and attempted eviction from his property. He named **Sheriff Justin Lindemann** in his personal and official capacity, along with the **Colorado County Sheriff's Office** and **Colorado County Clerk Kimberly Menke**.
+
+Claims against CCSO included:
+- Enforced void foreclosure orders
+- Assisted unlawful dispossession
+- Threatened removal without valid judicial protections
+- **Count VI — Monell Liability:** "Government actors participated through official custom and policy"
+
+The case is currently active. It was filed six weeks before publication of this post.
+
+---
+
 ## The Pattern
 
-- **2014:** CCSO deputy participates in high-speed pursuit ending in passenger shot 13 times
-- **2016:** Federal §1983 + Monell suit filed against CCSO for excessive force and failure to supervise
-- **2018:** Federal §1983 suit filed against CCSO jail supervisors for deliberate medical indifference — allegations include intercom disabled, nurse refuses to enter cell, inmate told to "shut the hell up"
-- **Both cases dismissed without merits review.** One named supervisor from 2018 remains employed.
-- **2024:** Rust cited as active compliance deficiency — three years after $2.2M in federal compliance funds received
-- **2026:** County seeks additional public funds for a new justice center
+- **2014:** CCSO deputy participates in high-speed pursuit ending in passenger shot 13 times; plaintiff pregnant, loses one twin
+- **2016:** Federal §1983 + Monell suit filed against CCSO — excessive force and failure to supervise, screen, discipline, and control officers
+- **2018:** Federal §1983 suit filed against CCSO jail supervisors — deliberate medical indifference; intercom disabled, nurse refuses to enter cell, inmate told to "shut the hell up." One named supervisor remains employed today.
+- **2024:** Rust cited as active TCJS compliance deficiency — three years after $2.2M in federal compliance funds received
+- **2026 (April):** Federal §1983 + Monell suit filed against Sheriff Lindemann personally and CCSO — unlawful dispossession and enforcement of void orders
+- **2026 (April):** County seeks additional public funds for a new justice center without accounting for prior federal funds
 
-The same institution. The same supervisors. No documented corrective action. No public accounting.
+Four separate federal civil rights actions against Colorado County and the Colorado County Sheriff's Office spanning twelve years. The same institution. No documented corrective action. No public accounting.
 
 These are not isolated failures. They are a pattern. And patterns have legal significance.
 
 ---
 
-*Sources: CourtListener/RECAP, U.S. District Court S.D. Texas (Case Nos. 4:16-cv-03708, 4:18-cv-01246), 25th District Court Colorado County (Cause No. 24591), Texas Commission on Jail Standards, Colorado County Citizen, public statements by Sheriff Justin Lindemann.*
+*Sources: CourtListener/RECAP, U.S. District Court S.D. Texas (Case Nos. 4:16-cv-03708, 4:18-cv-01246, 4:26-cv-03289), 25th District Court Colorado County (Cause No. 24591), Texas Commission on Jail Standards, Colorado County Citizen, public statements by Sheriff Justin Lindemann.*
