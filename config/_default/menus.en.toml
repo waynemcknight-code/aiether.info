@@ -1,7 +1,12 @@
 [[main]]
   name = "Articles"
-  url = "/categories/letters-to-the-editor/"
+  url = "/posts/"
   weight = 10
+
+[[main]]
+  name = "Civil Rights"
+  url = "/categories/civil-rights/"
+  weight = 12
 
 [[main]]
   name = "Corruption Watch"
