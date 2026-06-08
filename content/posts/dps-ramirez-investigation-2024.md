@@ -60,10 +60,9 @@ The investigation documents systematic sexual assault by Ramirez against a femal
 
 ## Context: Institutional Pattern
 
-This investigation occurs in the same facility where:
+This investigation occurs in a facility with a documented pattern of sexual assault:
 
-1. **January 19, 2026**: Inmate Loraine McKnight was tackled by Lt. Holly Smith, sustaining a traumatic brain injury
-2. **Approximately 16 months before Ramirez assault (ca. 2023)**: A previous Colorado County Sheriff's Deputy sexually assaulted a female inmate; the deputy received $750 fine and deferred adjudication with no facility policy changes
+- **Approximately 16 months before Ramirez assault (ca. 2023)**: A previous Colorado County Sheriff's Deputy sexually assaulted a female inmate; the deputy received $750 fine and deferred adjudication with no facility policy changes
 
 The Colorado County Jail operated without PREA (Prison Rape Elimination Act) policy, PREA Coordinator, or PREA training during all documented incidents, despite receiving $4.2M+ in federal State and Local Fiscal Recovery Funds (Award ID SLFRP4543) designated for "Jail Rehabilitation."
 
