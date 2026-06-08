@@ -60,9 +60,7 @@ The investigation documents systematic sexual assault by Ramirez against a femal
 
 ## Context: Institutional Pattern
 
-This investigation occurs in a facility with a documented pattern of sexual assault:
-
-- **Approximately 16 months before Ramirez assault (ca. 2023)**: A previous Colorado County Sheriff's Deputy sexually assaulted a female inmate; the deputy received $750 fine and deferred adjudication with no facility policy changes
+The Ramirez sexual assaults (August-September 2024) occurred in a facility without PREA compliance mechanisms or institutional corrections. This failure to implement safeguards after the Ramirez incidents became evident 16 months later when another inmate was injured by jail staff, demonstrating the lack of corrective action by Colorado County.
 
 The Colorado County Jail operated without PREA (Prison Rape Elimination Act) policy, PREA Coordinator, or PREA training during all documented incidents, despite receiving $4.2M+ in federal State and Local Fiscal Recovery Funds (Award ID SLFRP4543) designated for "Jail Rehabilitation."
 
