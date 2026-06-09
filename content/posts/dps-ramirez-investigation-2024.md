@@ -2,6 +2,8 @@
 title: "DPS Investigation: Sexual Assault by CCSO Deputy Tomas Ramirez"
 date: 2026-06-08T00:00:00Z
 draft: false
+categories:
+  - Civil Rights
 ---
 
 ## DPS Case 2024-0771627: Sexual Assault in Custody
