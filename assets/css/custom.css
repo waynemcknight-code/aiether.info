@@ -1,98 +1,167 @@
 /* Readability improvements for aiether.info */
 
-/* Increase base font size */
-:root {
-  --font-size-base: 1.125rem;
+html {
+  font-size: 18px !important;
 }
 
 body {
   font-size: 1.125rem !important;
-  line-height: 1.7 !important;
+  line-height: 1.8 !important;
+  letter-spacing: 0.3px;
 }
 
-/* Improve contrast */
-article {
-  color: #1a1a1a !important;
-}
-
-.prose {
-  color: #1a1a1a !important;
+main {
   font-size: 1.125rem !important;
 }
 
+/* Main content area */
+article,
+.article-content,
+.prose {
+  font-size: 1.125rem !important;
+  line-height: 1.8 !important;
+  color: #1a1a1a !important;
+}
+
+article p,
 .prose p {
   font-size: 1.125rem !important;
+  line-height: 1.8 !important;
   margin-bottom: 1.5rem !important;
+  color: #222 !important;
 }
 
+article h1,
 .prose h1 {
-  font-size: 2.2rem !important;
-  margin-top: 1.5rem !important;
+  font-size: 2.5rem !important;
+  font-weight: 700;
+  margin-top: 2rem !important;
   margin-bottom: 1rem !important;
+  color: #000 !important;
+  line-height: 1.2;
 }
 
+article h2,
 .prose h2 {
-  font-size: 1.875rem !important;
-  margin-top: 1.5rem !important;
+  font-size: 2rem !important;
+  font-weight: 700;
+  margin-top: 1.75rem !important;
   margin-bottom: 0.875rem !important;
+  color: #000 !important;
+  line-height: 1.2;
 }
 
+article h3,
 .prose h3 {
   font-size: 1.5rem !important;
-  margin-top: 1.25rem !important;
+  font-weight: 700;
+  margin-top: 1.5rem !important;
   margin-bottom: 0.75rem !important;
+  color: #000 !important;
 }
 
+article li,
 .prose li {
   font-size: 1.125rem !important;
-  margin-bottom: 0.5rem !important;
+  line-height: 1.8 !important;
+  margin-bottom: 0.75rem !important;
+  color: #222 !important;
 }
 
+article a,
 .prose a {
   color: #c41e3a !important;
   font-weight: 600;
+  text-decoration: underline;
 }
 
+article a:hover,
 .prose a:hover {
   color: #8b0000 !important;
+  text-decoration: none;
 }
 
-/* Improve list readability */
+/* Lists */
+article ul,
+article ol,
 .prose ul,
 .prose ol {
   margin-bottom: 1.5rem !important;
   padding-left: 2.5rem !important;
 }
 
-/* Article metadata and breadcrumbs */
-.article-meta,
-.breadcrumbs {
-  font-size: 1rem !important;
+/* Blockquotes */
+article blockquote,
+.prose blockquote {
+  font-size: 1.125rem !important;
+  border-left: 4px solid #c41e3a !important;
+  padding-left: 1.5rem !important;
   color: #444 !important;
+  font-style: italic;
+  margin-bottom: 1.5rem !important;
 }
 
-/* Code blocks */
+/* Code blocks and inline code */
+article code,
 .prose code {
   font-size: 0.95rem !important;
   background-color: #f5f5f5 !important;
   color: #333 !important;
   padding: 0.25rem 0.5rem !important;
   border-radius: 0.25rem !important;
+  font-family: 'Courier New', monospace;
 }
 
-/* Blockquotes */
-.prose blockquote {
-  font-size: 1.125rem !important;
-  border-left: 4px solid #c41e3a !important;
-  color: #444 !important;
+article pre,
+.prose pre {
+  font-size: 0.95rem !important;
+  line-height: 1.5;
+  background-color: #f5f5f5 !important;
 }
 
 /* Tables */
+article table,
 .prose table {
   font-size: 1.125rem !important;
+  margin-bottom: 1.5rem !important;
 }
 
+article th,
+article td,
 .prose th,
 .prose td {
   padding: 0.75rem !important;
+  border: 1px solid #ddd !important;
+  color: #222 !important;
+}
+
+article th {
+  background-color: #f5f5f5 !important;
+  font-weight: 600;
+}
+
+/* Metadata and breadcrumbs */
+.article-meta,
+.breadcrumbs,
+.article-date {
+  font-size: 1rem !important;
+  color: #555 !important;
+}
+
+/* Improve overall readability */
+*::-webkit-scrollbar {
+  width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #c41e3a;
+  border-radius: 6px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: #8b0000;
 }
