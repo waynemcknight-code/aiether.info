@@ -3,7 +3,7 @@ title: "Colorado County Commissioners Court — May 2026 Summary"
 date: 2026-06-11T00:00:00Z
 draft: false
 categories:
-  - Government
+  - Colorado County
 ---
 
 ## Colorado County Commissioners Court Minutes Summary
