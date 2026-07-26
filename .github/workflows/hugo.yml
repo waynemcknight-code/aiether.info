@@ -22,10 +22,15 @@ jobs:
         with:
           submodules: recursive
 
+      # Pinned, not 'latest'. The Congo theme is pinned to a specific commit
+      # and already emits deprecation warnings on 0.161.1; letting CI float to
+      # whatever Hugo ships next is how a site that built fine on Friday fails
+      # on Monday with nobody having touched it. Verified building locally on
+      # this exact version -- 551 pages, clean (2026-07-26).
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.161.1'
           extended: true
 
       - name: Build

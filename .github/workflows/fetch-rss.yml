@@ -40,11 +40,14 @@ jobs:
             echo "changed=false" >> $GITHUB_OUTPUT
           fi
 
+      # Pinned to match hugo.yml -- see the note there. This workflow is
+      # currently disabled (a local cron does the RSS fetch instead), but a
+      # floating version here would be a landmine if it is ever re-enabled.
       - name: Setup Hugo
         if: steps.changes.outputs.changed == 'true'
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.161.1'
           extended: true
 
       - name: Build
